@@ -1,0 +1,1361 @@
+Supp ID,Invoice ID,Supplier Name,Paid Date,Subjective Code,Subjective Name,Service Area,Cost Centre Name,Invoiced
+47984,2968821,1 AM EVENT SUPPORT SERVICES,12/12/2013,48203,Marketing,Central Services,Marketing  General,£900.00
+6813,2973912,3M UNITED KINGDOM PLC,19/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£1,100.00"
+6813,2973908,3M UNITED KINGDOM PLC,19/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£1,100.00"
+6834,2969633,A & A DRAIN SERVICES,12/12/2013,20100,Day To Day Maintenance,Environmental Services,Markets  Rent Account,£510.45
+6050,2967550,A E YATES LTD,12/12/2013,20501,Engineering Work,Environmental Services,Lighting / Stores Billable Costs,"£7,945.32"
+135553,2971087,A P S (SPECIALIST CONTRACTORS) LTD,16/12/2013,Z5608,Inv Invoice Price Variance,Property Services,EAM Holding,£534.60
+239811,2972366,A1 STEAM CLEANING & RECOVERY,16/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£860.00
+156135,2972420,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2968682,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2968685,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2968689,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2968690,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2972424,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2968998,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2969001,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2969006,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2969036,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2969041,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2969048,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2969091,ACCESS TO CARE LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2979197,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2979201,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2979204,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£605.00
+156135,2979172,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2979177,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2980362,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2980371,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2980377,ACCESS TO CARE LTD,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2972409,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£726.00
+156135,2972412,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2972414,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2972418,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+156135,2972419,ACCESS TO CARE LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+1951294,2969067,ACORN HOUSE FOSTERING SERVICES,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,400.00"
+1951294,2969082,ACORN HOUSE FOSTERING SERVICES,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£1,942.56"
+101393,2980680,ADAMS SELFSTORE,30/12/2013,22006,Rent of Storage Facilities,Finance Department,Museum Premises,"£2,356.73"
+22407,2970309,ADULT LEARNERS GROUP,12/12/2013,48509,Other Fees,Development & Regen,Adult Education,£750.00
+245759,2973595,ADVANCED BUILDING (NW) LTD,19/12/2013,53100,Agency Staff  Fulltime,Property Services,Operational Facilities Management,£510.00
+245759,2973586,ADVANCED BUILDING (NW) LTD,19/12/2013,Z1051,Work in Progress Additions,Property Services,Corporate Property Capital Project Transfers to Other Projects,£980.00
+245759,2963762,ADVANCED BUILDING (NW) LTD,05/12/2013,20100,Day To Day Maintenance,Property Services,Accomm Rationalisation Strategy,"£1,470.00"
+124443,2970312,ADVANCED CHILDCARE ASSESSMENTS LTD#MARK WEBB,12/12/2013,48509,Other Fees,Children's Services,Management Team,£969.37
+2283290,2971591,ADVANCED CHILDCARE LIMITED,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Disability Serv External Provision,"£15,000.00"
+2283290,2971730,ADVANCED CHILDCARE LIMITED,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£12,424.20"
+2283290,2971354,ADVANCED CHILDCARE LIMITED,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£1,236.30"
+2283290,2971350,ADVANCED CHILDCARE LIMITED,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£12,424.20"
+2283290,2965365,ADVANCED CHILDCARE LIMITED,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Disability Serv External Provision,"£2,000.00"
+2290296,2980375,AGE UK BOLTON#WAS AGE CONCERN,23/12/2013,21203,Fuel Oil  General,Central Corporate,Land & Property Portfolios,£733.10
+871655,2969482,AGILISYS LIMITED,12/12/2013,45401,Computer Maintenance,Finance Department,Library Management System,"£3,287.00"
+871655,2986670,AGILISYS LIMITED,30/12/2013,45613,Agilisys  Managed Service,Finance Department,FM Contract,"£257,923.09"
+1772297,2969548,AGR BUILDING & FENCING CONTRACTORS LIMITED,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£3,278.17"
+6063,2981780,AGR CARE SERVICES,30/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£11,160.00"
+6063,2981779,AGR CARE SERVICES,30/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£6,876.00"
+6063,2981781,AGR CARE SERVICES,30/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£11,460.00"
+286533,2970413,AGRIPA SOLUTIONS LTD,16/12/2013,48202,General Publicity,Environmental Services,Waste,"£2,250.00"
+6960,2965134,AIDAPT BATHROOMS LTD,05/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£888.50
+6960,2978519,AIDAPT BATHROOMS LTD,23/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£775.00
+2314363,2986465,ALL ABOUT DEMENTIA,30/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Adults,£710.00
+2314363,2986464,ALL ABOUT DEMENTIA,30/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Adults,£710.00
+2314363,2968707,ALL ABOUT DEMENTIA,12/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Adults,£710.00
+146502,2969740,ALLIANCE DISPOSABLES LTD,12/12/2013,20100,Day To Day Maintenance,Children's Services,Gt Lever CC,"£3,830.00"
+146502,2964460,ALLIANCE DISPOSABLES LTD,05/12/2013,26000,Cleaning Materials,Environmental Services,Building Cleaning,£551.17
+110901,2970067,ALLPAY.NET LTD,12/12/2013,48509,Other Fees,Finance Department,CSD Cashiers,"£2,591.44"
+110901,2970077,ALLPAY.NET LTD,12/12/2013,48509,Other Fees,Finance Department,CSD Cashiers,£768.28
+110901,2970072,ALLPAY.NET LTD,12/12/2013,48509,Other Fees,Finance Department,CSD Cashiers,"£3,926.60"
+1671329,2967007,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Adult Services,ICES,£538.08
+1671329,2967007,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Activities and Operations,"£13,160.02"
+1671329,2967007,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Highway Services,£594.78
+1671329,2967007,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Highway Works  Unallocated Costs,"£4,550.60"
+1671329,2967007,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,SNT Childrens Servs,"£5,710.59"
+1671329,2967007,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Waste,"£27,982.11"
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Adult Services,ICES,£559.56
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Environmental Services,Activities and Operations,"£1,823.01"
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Environmental Services,Assets,"£9,669.38"
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Environmental Services,Highway Services,"£2,521.19"
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Environmental Services,Highway Works  Unallocated Costs,"£3,492.83"
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Environmental Services,SNT Childrens Servs,"£6,482.75"
+1671329,2975887,ALLSTAR BUSINESS SOLUTIONS,19/12/2013,31301,Vehicle Fuel,Environmental Services,Waste,"£25,683.10"
+1671329,2967354,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Activities and Operations,"£11,248.61"
+1671329,2967354,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Highway Services,"£1,334.26"
+1671329,2967354,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Highway Works  Unallocated Costs,"£3,369.80"
+1671329,2967354,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,SNT Childrens Servs,"£6,390.81"
+1671329,2967354,ALLSTAR BUSINESS SOLUTIONS,09/12/2013,31301,Vehicle Fuel,Environmental Services,Waste,"£24,827.03"
+25274,2972602,ALSECURE GROUP LTD,19/12/2013,44401,Other Security Expenses,Housing GRF,Benjamin Court Temporary Accommodation,£839.16
+25274,2965746,ALSECURE GROUP LTD,09/12/2013,44401,Other Security Expenses,Housing GRF,Benjamin Court Temporary Accommodation,£839.16
+25274,2968431,ALSECURE GROUP LTD,12/12/2013,44401,Other Security Expenses,Housing GRF,Benjamin Court Temporary Accommodation,£839.16
+25274,2978500,ALSECURE GROUP LTD,23/12/2013,44401,Other Security Expenses,Housing GRF,Benjamin Court Temporary Accommodation,£839.16
+265470,2964474,AMIX RMC PLANT LTD,05/12/2013,40601,General Materials,Environmental Services,Activities and Operations,£769.80
+2173298,2966548,ANIMAL ENTERPRISES (UK) LTD,09/12/2013,48203,Marketing,Central Services,Marketing  General,"£3,628.24"
+6079,2975813,ANIMAL WARDENS,19/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£909.09
+6079,2975818,ANIMAL WARDENS,19/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£577.10
+2457329,2972499,ANTALIS DOCUMENT SUPPLIES,16/12/2013,43032,Office Stationery,Central Services,Text & Reprographics,£570.75
+1500117,2972612,APEX RADIO SYSTEMS LTD,19/12/2013,45253,Radios,Finance Department,LMA  Security,£683.99
+114124,2971402,AQUA-SAVE,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£561.60
+114124,2967793,AQUA-SAVE,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£655.20
+384639,2972784,ARENA GROUP LTD,19/12/2013,43030,Photocopying Lease/Maintenance,Housing GRF,Homes for Bolton CBL,£727.40
+1555982,2980349,ARJOHUNTLEIGH UK,23/12/2013,44051,Clients Aids & Adaptations,Adult Services,ACM  Management,£644.00
+6433,2973444,ASD METAL SERVICES#KLOCKNER METAL SVS LTD,19/12/2013,40610,Direct Materials,Environmental Services,Sign Shop,"£2,300.00"
+223606,2968654,ASDA BUSINESS REWARDS,12/12/2013,45914,Commissioning Worklessness,Development & Regen,The Work Programme,£500.00
+236866,2966984,ASDA PHARMACY,09/12/2013,52200,Contracted Services,Public Health,Smoking,£692.92
+236866,2964329,ASDA PHARMACY,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£1,233.10"
+135180,2968316,ASH HIRE & SALES LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+135180,2965447,ASH HIRE & SALES LTD,05/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+135180,2965582,ASH HIRE & SALES LTD,05/12/2013,20501,Engineering Work,Environmental Services,Highways Maintenance Billable Costs,£516.25
+135180,2979203,ASH HIRE & SALES LTD,23/12/2013,20501,Engineering Work,Environmental Services,Highways Maintenance Billable Costs,£947.50
+135180,2968062,ASH HIRE & SALES LTD,12/12/2013,20501,Engineering Work,Environmental Services,Highways Maintenance Billable Costs,£647.50
+135180,2972736,ASH HIRE & SALES LTD,19/12/2013,20501,Engineering Work,Environmental Services,Highways Maintenance Billable Costs,£797.50
+135180,2971798,ASH HIRE & SALES LTD,23/12/2013,40610,Direct Materials,Environmental Services,Depots,£536.50
+6100,2973429,ASSOCIATED CLEANING CONTRACTORS,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£847.00
+6100,2989054,ASSOCIATED CLEANING CONTRACTORS,30/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£784.00
+6100,2971584,ASSOCIATED CLEANING CONTRACTORS,16/12/2013,26100,Window Cleaning,Property Services,Annual Charge Holding Account,£612.00
+6100,2964362,ASSOCIATED CLEANING CONTRACTORS,12/12/2013,26100,Window Cleaning,Property Services,Annual Charge Holding Account,"£1,375.00"
+6100,2967749,ASSOCIATED CLEANING CONTRACTORS,12/12/2013,52200,Contracted Services,Housing GRF,Access and Advice Housing Options Centre,£934.60
+6100,2986741,ASSOCIATED CLEANING CONTRACTORS,30/12/2013,52200,Contracted Services,Housing GRF,Access and Advice Housing Options Centre,£821.35
+23687,2973158,ATKINS LIMITED,19/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£2,291.42"
+39044,2963578,AUTISTIC SOCIETY GREATER MANCHESTER AREA,05/12/2013,52200,Contracted Services,Children's Services,Admin Commissioning,"£2,625.00"
+10192,2963882,AUTO TIME SYSTEMS NORTHERN LTD,05/12/2013,25000,Fixed Equipment Purchase,Environmental Services,Buildings,"£2,246.50"
+683595,2975972,AVEPOINT UK LTD,23/12/2013,Z5272,On Acct Rcpts Paymnt A/c,Finance Department,Agilisys IMACS Reserve,"£2,337.00"
+6107,2972763,B & M DAVIES (PLANT HIRE) LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+6107,2969539,B & M DAVIES (PLANT HIRE) LTD,12/12/2013,33202,Plant Hire,Environmental Services,Bereavement Services,"£1,923.50"
+6107,2978407,B & M DAVIES (PLANT HIRE) LTD,23/12/2013,33202,Plant Hire,Environmental Services,Bereavement Services,£769.00
+6107,2969940,B & M DAVIES (PLANT HIRE) LTD,12/12/2013,33202,Plant Hire,Environmental Services,Bereavement Services,£728.00
+6107,2969959,B & M DAVIES (PLANT HIRE) LTD,12/12/2013,33202,Plant Hire,Environmental Services,Bereavement Services,"£2,175.00"
+6107,2980745,B & M DAVIES (PLANT HIRE) LTD,30/12/2013,33202,Plant Hire,Environmental Services,Bereavement Services,£703.00
+6107,2980759,B & M DAVIES (PLANT HIRE) LTD,30/12/2013,33202,Plant Hire,Environmental Services,Bereavement Services,£696.00
+6107,2977493,B & M DAVIES (PLANT HIRE) LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£516.25
+6107,2971855,B & M DAVIES (PLANT HIRE) LTD,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,091.50"
+6107,2971869,B & M DAVIES (PLANT HIRE) LTD,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+6107,2968035,B & M DAVIES (PLANT HIRE) LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£687.50
+6107,2968037,B & M DAVIES (PLANT HIRE) LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£687.50
+6107,2968052,B & M DAVIES (PLANT HIRE) LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+6107,2978411,B & M DAVIES (PLANT HIRE) LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+6107,2965587,B & M DAVIES (PLANT HIRE) LTD,05/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£647.50
+2387308,2979083,BAKEWELLS CARE HOME,23/12/2013,Z1051,Work in Progress Additions,Adult Services,Adult Services Balance Sheet,"£51,436.04"
+24277,2972829,BARKER WELDING SUPPLIES,19/12/2013,19100,Training Exps Tuition Fees,Environmental Services,Transport Support Service,£500.00
+7298,2968988,BARNARDOS,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,514.29"
+43069,2974191,BEECH & CO (YORKSHIRE LTD),19/12/2013,53100,Agency Staff  Fulltime,Property Services,Estates & Property Management,"£3,179.55"
+797636,2972815,BERNARD TAYLOR PARTNERSHIP LTD,19/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£3,910.00"
+66470,2969516,BERTRAM TRADING LTD#BERTRAM LIBRARY SERVICES,12/12/2013,40753,Book Fund Expenditure,Finance Department,Libraries Info. Services,"£6,083.53"
+6126,2980451,BETHELL CONSTRUCTION LTD,23/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,246.89"
+6126,2976126,BETHELL CONSTRUCTION LTD,23/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£7,193.48"
+2299297,2972839,BHA,19/12/2013,48509,Other Fees,Adult Services,AD Local Involvement Network,"£28,927.94"
+7375,2987390,BIFFA WASTE LTD,30/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£5,102.04"
+814638,2969770,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£770.64
+814638,2969776,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£573.04
+814638,2969780,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£573.04
+814638,2967707,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£834.08
+814638,2967724,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£774.80
+814638,2967663,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£774.80
+814638,2969767,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£774.80
+814638,2975930,BIRKDALE DESIGN LTD,19/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£601.12
+814638,2967547,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£601.12
+814638,2967700,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£541.84
+814638,2967666,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£970.32
+814638,2976296,BIRKDALE DESIGN LTD,23/12/2013,25000,Fixed Equipment Purchase,Housing GRF,Accommodation Projects,£637.00
+814638,2970832,BIRKDALE DESIGN LTD,16/12/2013,40110,Op Equip Furniture Purchase,Housing GRF,Dispersed Properties,£665.60
+814638,2971333,BIRKDALE DESIGN LTD,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£774.80
+814638,2971342,BIRKDALE DESIGN LTD,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£974.48
+814638,2971344,BIRKDALE DESIGN LTD,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£592.80
+814638,2971345,BIRKDALE DESIGN LTD,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£774.80
+814638,2967702,BIRKDALE DESIGN LTD,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£974.48
+7948,2963615,BLACKROD HOUSE,03/12/2013,54301,Residential Provision,Adult Services,MH Residential External Provision,"£1,567.96"
+7948,2963615,BLACKROD HOUSE,03/12/2013,54301,Residential Provision,Adult Services,OA  External Provision Residential,"£17,292.80"
+7948,2978764,BLACKROD HOUSE,23/12/2013,Z1051,Work in Progress Additions,Adult Services,Adult Services Balance Sheet,"£33,694.05"
+43938,2970773,BOLTON AT HOME#137,16/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£20,665.50"
+43938,2967500,BOLTON AT HOME#137,09/12/2013,44051,Clients Aids & Adaptations,Adult Services,ASC External Funded Schemes,"£1,774.50"
+43938,2970768,BOLTON AT HOME#137,16/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£15,729.12"
+43938,2967497,BOLTON AT HOME#137,09/12/2013,44051,Clients Aids & Adaptations,Adult Services,ASC External Funded Schemes,£955.50
+43938,2970764,BOLTON AT HOME#137,16/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£524,535.12"
+43938,2970770,BOLTON AT HOME#137,16/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£34,201.44"
+43938,2970771,BOLTON AT HOME#137,16/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£134,699.04"
+43938,2969550,BOLTON AT HOME#137,12/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£28,993.47"
+43938,2969554,BOLTON AT HOME#137,12/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£25,127.68"
+43938,2987426,BOLTON AT HOME#137,30/12/2013,Z5259,AR Unapplied Receipts Refunds,Finance Department,Finance Balance Sheet,£960.00
+43938,2966345,BOLTON AT HOME#137,09/12/2013,Z1051,Work in Progress Additions,Housing GRF,Capital  General Fund,"£244,811.40"
+8990,2970760,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£622.21
+8990,2970762,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2969839,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£622.21
+8990,2986827,BOLTON CARPET WAREHOUSE,30/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2969486,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£593.71
+8990,2969838,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£700.74
+8990,2986689,BOLTON CARPET WAREHOUSE,30/12/2013,40150,Office Furniture Purchase,Housing GRF,Furnished Tenancies,£502.80
+8990,2978763,BOLTON CARPET WAREHOUSE,23/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£622.22
+8990,2978766,BOLTON CARPET WAREHOUSE,23/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£622.21
+8990,2978768,BOLTON CARPET WAREHOUSE,23/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2969276,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£622.21
+8990,2969302,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£622.21
+8990,2969479,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£525.51
+8990,2969492,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2969493,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£656.32
+8990,2969509,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£752.54
+8990,2970396,BOLTON CARPET WAREHOUSE,12/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2970482,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2970497,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£502.80
+8990,2970505,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2970695,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+8990,2970757,BOLTON CARPET WAREHOUSE,16/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,£700.74
+43551,2967836,BOLTON COMMUNITY LEISURE LTD,11/12/2013,52200,Contracted Services,Development & Regen,The Leisure Trust,"£206,823.33"
+16302,2980650,BOLTON COMMUNITY TRANSPORT & FURNITURE SERVICES#BCT & FS,30/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£5,820.25"
+8439,2980657,BOLTON CVS#BOLTON COMMUNITY & VOLUNTARY SERVICES,30/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£40,000.00"
+8439,2980651,BOLTON CVS#BOLTON COMMUNITY & VOLUNTARY SERVICES,30/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£62,500.00"
+6149,2978520,BOLTON STONE RESTORATION LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£534.64
+6149,2973145,BOLTON STONE RESTORATION LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,518.13"
+6149,2973121,BOLTON STONE RESTORATION LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,050.00"
+6149,2973135,BOLTON STONE RESTORATION LTD,19/12/2013,20101,Programmed Maint. Work,Property Services,Admin Buildings  General,"£1,331.16"
+6149,2977485,BOLTON STONE RESTORATION LTD,23/12/2013,20100,Day To Day Maintenance,Environmental Services,Depots,"£2,212.00"
+7463,2967835,BOLTON TREE & LANDSCAPE SERVICES LTD,12/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£500.00
+7463,2973564,BOLTON TREE & LANDSCAPE SERVICES LTD,19/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£600.00
+811736,2971665,BOLTON WANDERERS FOOTBALL & ATHLETIC CO LTD,16/12/2013,46204,Mayors Hospitality,Central Services,Mayoralty,£833.33
+14837,2975948,BOLTON WANDERERS FOOTBALL CLUB,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,000.00"
+8706,2968887,BOLTON WISE LTD#EATWISE#WISEWORKS#WISETRAINING (14-19)#STYLE WISE#MOJO TRUST,12/12/2013,40101,Operational Equipment Maint,Environmental Services,Community Safety,£605.67
+8706,2968888,BOLTON WISE LTD#EATWISE#WISEWORKS#WISETRAINING (14-19)#STYLE WISE#MOJO TRUST,12/12/2013,40101,Operational Equipment Maint,Environmental Services,Community Safety,"£1,841.27"
+7465,2965357,BOLTON YOUNG PERSONS HOUSING SCHEME#BYPHS,05/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,£880.56
+7465,2969855,BOLTON YOUNG PERSONS HOUSING SCHEME#BYPHS,12/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£116,331.75"
+7465,2965355,BOLTON YOUNG PERSONS HOUSING SCHEME#BYPHS,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£1,560.00"
+2338337,2970402,BONNA FABRICATIONS,12/12/2013,20101,Programmed Maint. Work,Property Services,Le Mans Crescent  General,"£18,053.00"
+2338337,2973300,BONNA FABRICATIONS,19/12/2013,20101,Programmed Maint. Work,Property Services,Le Mans Crescent  General,"£18,053.00"
+2053,2963908,BOOTS THE CHEMIST,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£2,395.70"
+6162,2972811,BRADSHAW GASS & HOPE#1,19/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£4,000.00"
+6162,2972776,BRADSHAW GASS & HOPE#1,19/12/2013,20100,Day To Day Maintenance,Property Services,Accomm Rationalisation Strategy,"£1,350.00"
+6162,2972809,BRADSHAW GASS & HOPE#1,19/12/2013,48509,Other Fees,Property Services,Accomm Rationalisation Strategy,"£2,987.22"
+6162,2972791,BRADSHAW GASS & HOPE#1,19/12/2013,52200,Contracted Services,Property Services,Projects,£757.94
+6162,2981104,BRADSHAW GASS & HOPE#1,30/12/2013,48509,Other Fees,Environmental Services,NS Centralised budget,"£1,816.99"
+125827,2983280,BRAKE BROTHERS LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£526.30
+125827,2984037,BRAKE BROTHERS LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£556.52
+2274290,2971625,BRI TEK TECHNOLOGIES LTD,16/12/2013,48509,Other Fees,Environmental Services,Neighbourhood Management Programme,£650.00
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Chief Executives Department,Policy Performance & Communications Mngmnt,£549.88
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Environmental Services,Assets,"£2,337.10"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Environmental Services,Bereavement Services,"£7,420.43"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Environmental Services,Depots,"£1,844.08"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Environmental Services,Mngmnt & Admin Overhead,£504.91
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Development & Regen,The Leverhulme Centre,£741.10
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Farnworth Youth Centre,£803.77
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Harvey CC,£958.33
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Heaton & Lostock CC,£675.91
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Lord Street and Grosvenor CC,£646.08
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Oxford Grove CC,£646.10
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Park Lodge,£705.72
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Res Serv Mayor Street,"£1,424.04"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Technical Innovation Centre,£576.97
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Children's Services,Tonge CC,£841.94
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Finance Department,Libraries  Farnworth,£586.52
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Housing GRF,Access and Advice Housing Options Centre,£783.34
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Alderbank EPH,"£3,177.59"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Brazley Centre,£645.63
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Castle Hill,"£4,203.15"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Crescent House,£974.80
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Darley Court EPH,"£2,384.17"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Farnworth Area Office,£774.69
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Firwood EPH,"£2,192.70"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Horwich Area Office,£674.69
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Jubilee Centre,"£2,175.12"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Laburnum Lodge EPH,"£2,862.16"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Merehall,£730.17
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Paderborn House,"£3,743.27"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,The Harrowbys SEC,£631.93
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Thicketford Centre,"£1,565.66"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Town Hall,"£20,786.46"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Wellsprings  BMBC,"£4,277.00"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Westhoughton Area Office,"£1,691.18"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Wilfred Gere EPH,"£1,325.47"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Property Services,Winifred Kettle,"£2,231.82"
+20980,2976324,BRITISH GAS BUSINESS,23/12/2013,21200,Gas  General,Central Corporate,Land & Property Portfolios,"£4,739.29"
+20980,2966537,BRITISH GAS BUSINESS,09/12/2013,21100,Electricity  General,Housing GRF,Dispersed Properties,£998.31
+6169,2966534,BROTHERS OF CHARITY SERVICES,09/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Day Services,£801.16
+6169,2966534,BROTHERS OF CHARITY SERVICES,09/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Domiciliary Care,£937.44
+6169,2979194,BROTHERS OF CHARITY SERVICES,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Day Services,£801.16
+6169,2979194,BROTHERS OF CHARITY SERVICES,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Domiciliary Care,£937.44
+14681,2987339,BT GLOBAL SERVICES,30/12/2013,45408,Modems and Lines,Adult Services,AD  IT,£723.06
+121368,2968601,BT OPENREACH,19/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£1,048.18"
+6179,2980632,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980633,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980634,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980635,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980636,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980637,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980638,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980624,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,£646.80
+6179,2980625,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,£646.80
+6179,2980626,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,£715.00
+6179,2980627,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,220.00"
+6179,2980628,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,281.00"
+6179,2980629,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,281.00"
+6179,2980630,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2980631,BURNT TREE GROUP,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,155.00"
+6179,2972673,BURNT TREE GROUP,19/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,£677.60
+6179,2972676,BURNT TREE GROUP,19/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,£677.60
+208189,2972150,BUSINESS IT SUPPORT TEAM LTD#BIST,16/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£3,695.00"
+52677,2967503,BUTLINS SKYLINE LTD,12/12/2013,44059,Educational Visits,Children's Services,Castle Hill Youth Club,"£3,283.00"
+1551594,2965361,BY THE BRIDGE NORTH WEST,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,746.57"
+1551594,2965359,BY THE BRIDGE NORTH WEST,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,702.86"
+6182,2980667,C HORROCKS & SONS LTD,30/12/2013,20100,Day To Day Maintenance,Environmental Services,Depots,"£1,001.00"
+6182,2968727,C HORROCKS & SONS LTD,12/12/2013,Z1051,Work in Progress Additions,Property Services,Property Services Balance Sheet,£619.50
+6182,2968734,C HORROCKS & SONS LTD,12/12/2013,53100,Agency Staff  Fulltime,Property Services,Operational Facilities Management,"£1,680.00"
+6182,2978762,C HORROCKS & SONS LTD,23/12/2013,20100,Day To Day Maintenance,Property Services,Accomm Rationalisation Strategy,"£3,649.59"
+204632,2969532,C22 MEDIA,12/12/2013,48203,Marketing,Central Services,Marketing  General,£540.00
+107807,2965581,CACI LTD,05/12/2013,45431,Computer Software Licences,Finance Department,C.R.M. Operations,"£26,000.00"
+2267458,2969920,CAIS LTD,12/12/2013,54301,Residential Provision,Adult Services,Drugs Pooled Treatment Budget,"£3,220.00"
+251988,2966454,CALIBRATION & CONSULTANCY SERVICES UK LTD,09/12/2013,40101,Operational Equipment Maint,Environmental Services,Transport Support Service,"£1,338.00"
+283495,2980698,CARE MONITORING 2000 LTD,30/12/2013,45409,Information and Communication Technology,Adult Services,Home Support Reablement,"£3,054.25"
+6196,2978738,CARE TODAY CHILDRENS SERVICE,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£10,778.70"
+63390,2975918,CARE UK HOMECARE#CARE UK (BOLTON),19/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£58,333.93"
+63390,2973962,CARE UK HOMECARE#CARE UK (BOLTON),19/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£1,525.40"
+63390,2980329,CARE UK HOMECARE#CARE UK (BOLTON),23/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,£710.54
+63390,2979200,CARE UK HOMECARE#CARE UK (BOLTON),23/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,£731.25
+78906,2966909,CAREWATCH (BOLTON),09/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£1,459.75"
+78906,2965754,CAREWATCH (BOLTON),09/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£28,263.34"
+566695,2968960,CARING ALTERNATIVES LIMITED,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£1,672.00"
+566695,2968958,CARING ALTERNATIVES LIMITED,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£2,428.60"
+566695,2968956,CARING ALTERNATIVES LIMITED,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£2,428.60"
+566695,2966371,CARING ALTERNATIVES LIMITED,09/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£2,073.00"
+566695,2968980,CARING ALTERNATIVES LIMITED,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£2,396.40"
+566695,2968985,CARING ALTERNATIVES LIMITED,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£1,672.00"
+566695,2968959,CARING ALTERNATIVES LIMITED,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£2,396.40"
+482511,2978585,CATEREPAIR LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£597.53
+482511,2968838,CATEREPAIR LTD,12/12/2013,20100,Day To Day Maintenance,Environmental Services,Depots,£687.95
+159033,2973445,CBS OUTDOOR LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,050.00"
+159033,2973448,CBS OUTDOOR LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,£745.00
+159033,2973453,CBS OUTDOOR LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£2,481.00"
+159033,2973450,CBS OUTDOOR LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,200.00"
+159033,2973449,CBS OUTDOOR LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£2,000.00"
+75516,2980370,CEMEX UK MATERIALS LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£679.30
+75516,2980373,CEMEX UK MATERIALS LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£674.60
+75516,2975875,CEMEX UK MATERIALS LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£509.44
+75516,2975879,CEMEX UK MATERIALS LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,199.30"
+75516,2965589,CEMEX UK MATERIALS LTD,05/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,180.54"
+75516,2971815,CEMEX UK MATERIALS LTD,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,748.52"
+75516,2968358,CEMEX UK MATERIALS LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,368.84"
+2267473,2972468,CHANGE POINT LTD,16/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Childrens,"£2,553.00"
+6205,2972388,CHASSIS & CAB SPECIALISTS,16/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£956.00
+6205,2972485,CHASSIS & CAB SPECIALISTS,16/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,"£1,740.00"
+6205,2980455,CHASSIS & CAB SPECIALISTS,23/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£813.94
+16039,2963598,CHEMSEARCH#NCH (UK) LTD,05/12/2013,20100,Day To Day Maintenance,Environmental Services,Markets  Rent Account,£615.00
+1048773,2976161,CHESHIRE CENTRE FOR INDEPENDENT LIVING,23/12/2013,53000,Private Contracted Services,Adult Services,STARS & ILS  North,"£8,850.00"
+6131,2965950,CHILD ACTION NORTHWEST,09/12/2013,52200,Contracted Services,Children's Services,Youth Offending Team,"£1,092.50"
+1646290,2973543,CHUBB FIRE & SECURITY LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£2,580.56"
+1646290,2968975,CHUBB FIRE & SECURITY LTD,12/12/2013,20100,Day To Day Maintenance,Property Services,Town Hall,"£1,725.00"
+2357329,2965153,CHW LODGINGS LTD,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,857.14"
+2357329,2965154,CHW LODGINGS LTD,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£4,928.57"
+2357329,2973352,CHW LODGINGS LTD,19/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,£506.25
+2357329,2973324,CHW LODGINGS LTD,19/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,£848.15
+2357329,2965163,CHW LODGINGS LTD,05/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,£511.20
+2357329,2965150,CHW LODGINGS LTD,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,857.14"
+2357329,2965147,CHW LODGINGS LTD,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,857.14"
+125827,2982061,CICELEY COMMERCIAL BLACKBURN,31/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,"£1,145.80"
+125827,2981917,CICELEY COMMERCIAL BLACKBURN,31/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,£516.00
+125827,2981972,CICELEY COMMERCIAL BLACKBURN,31/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,£516.00
+125827,2981973,CICELEY COMMERCIAL BLACKBURN,31/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,£653.84
+337129,2972536,CIPFA BUSINESS LTD,19/12/2013,40703,Other Publications,Finance Department,Financial Management,£556.00
+337129,2980705,CIPFA BUSINESS LTD,30/12/2013,40703,Other Publications,Finance Department,Financial Management,£796.00
+337129,2972535,CIPFA BUSINESS LTD,19/12/2013,40703,Other Publications,Finance Department,Financial Management,"£1,276.00"
+2623,2965432,CITY & GUILDS OF LONDON INSTITUTE,05/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Adults,£585.00
+92558,2972833,CITY BUILD MANCHESTER LTD,19/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,£650.90
+126648,2967950,CIVICA UK LTD,12/12/2013,45400,Computer Purchase,Finance Department,Library Management System,"£19,300.00"
+126648,2970942,CIVICA UK LTD,23/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£2,025.00"
+13180,2976121,CLEAR CHANNEL UK LIMITED#3,23/12/2013,48200,Advertising General,Environmental Services,Albert Halls Entertainment,"£1,320.00"
+125827,2985239,CLIFTON QUALITY MEATS,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Civic Catering  Town Hall Functions,£706.62
+125827,2985223,CLIFTON QUALITY MEATS,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Civic Catering  Town Hall Functions,£638.00
+125827,2985243,CLIFTON QUALITY MEATS,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Civic Catering  Town Hall Functions,£553.14
+130480,2966997,COHENS CHEMIST#GORGEMEAD LTD,09/12/2013,52200,Contracted Services,Public Health,Smoking,£661.30
+130480,2974150,COHENS CHEMIST#GORGEMEAD LTD,19/12/2013,52200,Contracted Services,Public Health,Smoking,£611.55
+130480,2963914,COHENS CHEMIST#GORGEMEAD LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£524.10
+130480,2963933,COHENS CHEMIST#GORGEMEAD LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£1,179.30"
+130480,2964615,COHENS CHEMIST#GORGEMEAD LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£798.00
+123269,2965612,COLE SECURITY SERVICES LTD#FACTOR BIBBY,05/12/2013,44401,Other Security Expenses,Finance Department,C.R.M. Operations,£502.28
+123269,2972433,COLE SECURITY SERVICES LTD#FACTOR BIBBY,16/12/2013,44401,Other Security Expenses,Finance Department,C.R.M. Operations,£905.00
+123269,2969510,COLE SECURITY SERVICES LTD#FACTOR BIBBY,23/12/2013,44401,Other Security Expenses,Finance Department,C.R.M. Operations,£592.78
+1796290,2980623,COLLETT TRANSPORT SERVICES LTD#SPECIALIST FLEET SERVICES,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,980.00"
+1796290,2980622,COLLETT TRANSPORT SERVICES LTD#SPECIALIST FLEET SERVICES,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£1,800.00"
+2675,2976287,COLOURS WHOLESALE FLOWERS,23/12/2013,40609,Horticultural Materials,Environmental Services,Heaton Fold,£574.25
+21285,2968425,CONSERVATION CONTRACTS NORTH WEST LTD,23/12/2013,20501,Engineering Work,Environmental Services,Highway Services,"£1,780.64"
+21285,2976151,CONSERVATION CONTRACTS NORTH WEST LTD,23/12/2013,20501,Engineering Work,Central Corporate,Land & Property Portfolios,"£2,774.85"
+21285,2964799,CONSERVATION CONTRACTS NORTH WEST LTD,16/12/2013,52200,Contracted Services,Central Corporate,Land & Property Portfolios,"£1,378.78"
+21285,2970945,CONSERVATION CONTRACTS NORTH WEST LTD,16/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,932.49"
+46690,2966453,COOL CANVAS LTD,09/12/2013,48526,Strategic Projects,Children's Services,Business Admin,£800.00
+264215,2966975,CO-OP PHARMACY,09/12/2013,52200,Contracted Services,Public Health,Smoking,£624.84
+264215,2975795,CO-OP PHARMACY,19/12/2013,52200,Contracted Services,Public Health,Smoking,£562.80
+2265405,2966335,CORE ASSETS FOSTERING LIMITED,09/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£9,184.50"
+235301,2970319,CORNTHWAITE TREE CARE,12/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£8,250.00"
+125827,2984920,COUNTY COURT MANCHESTER,31/12/2013,48509,Other Fees,Children's Services,Management Team,"£6,465.00"
+125827,2984921,COUNTY COURT MANCHESTER,31/12/2013,48509,Other Fees,Children's Services,Management Team,"£6,640.00"
+125827,2984923,COUNTY COURT MANCHESTER,31/12/2013,48509,Other Fees,Children's Services,Management Team,£820.00
+125827,2984927,COUNTY COURT MANCHESTER,31/12/2013,48509,Other Fees,Children's Services,Management Team,"£13,105.00"
+125827,2984930,COUNTY COURT MANCHESTER,31/12/2013,48509,Other Fees,Legal Trading,Legal Services Trading Account,"£7,095.00"
+2760,2967430,COVERGOLD LIMITED,23/12/2013,40100,Operational Equipment Purchase,Finance Department,Libraries Info. Services,"£6,545.00"
+419294,2971462,CRAVEN ROOFING CONTRACTORS,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,455.00"
+6233,2968758,CREATIVE SUPPORT LTD#3,12/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£30,006.50"
+6233,2975889,CREATIVE SUPPORT LTD#3,19/12/2013,52200,Contracted Services,Adult Services,MH Day Care External Provision,"£3,709.98"
+6233,2981093,CREATIVE SUPPORT LTD#3,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£39,925.61"
+6233,2981094,CREATIVE SUPPORT LTD#3,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£26,832.26"
+6233,2981092,CREATIVE SUPPORT LTD#3,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£32,495.62"
+6233,2967416,CREATIVE SUPPORT LTD#3,09/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£6,313.18"
+6233,2967417,CREATIVE SUPPORT LTD#3,09/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£9,059.30"
+6233,2967418,CREATIVE SUPPORT LTD#3,09/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£10,922.63"
+6233,2967419,CREATIVE SUPPORT LTD#3,09/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£9,414.41"
+6233,2967420,CREATIVE SUPPORT LTD#3,09/12/2013,52200,Contracted Services,Adult Services,OA Extra Care Housing External Provision,"£9,832.36"
+2096,2967678,CREST ENVIRONMENTAL LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,282.00"
+242608,2976316,CYCLESCHEME.CO.UK,23/12/2013,31150,Cycle Purchase,Chief Executives Department,Cycle to Work Scheme,£832.33
+6247,2974262,D2 DIGITAL BY DESIGN LTD#1,19/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£10,000.00"
+6247,2965690,D2 DIGITAL BY DESIGN LTD#1,09/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£20,000.00"
+6247,2965685,D2 DIGITAL BY DESIGN LTD#1,09/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£20,000.00"
+1115807,2971394,DALEFIELD SURGERY#P82010,16/12/2013,52200,Contracted Services,Public Health,Sexual Health Improvement,£724.00
+1604505,2981847,DARLINGTONS (GROUP) LTD,30/12/2013,40610,Direct Materials,Environmental Services,Highway Services,"£2,964.50"
+64758,2987420,DAS LEGAL EXPENSES INSURANCE COMPANY LTD,30/12/2013,48502,Legal Fees,Adult Services,AD Adult Placements,"£2,047.88"
+302830,2970900,DATASPACE,16/12/2013,48506,Records Storage,Children's Services,Business Support â€“ North District,£858.24
+143127,2987369,DAVID MERCER,30/12/2013,48502,Legal Fees,Children's Services,Management Team,£960.00
+111640,2978702,DBD MECHANICAL & ELECTRICAL BUILDING SERVICES,23/12/2013,Z1051,Work in Progress Additions,Adult Services,Adult Services Balance Sheet,"£1,605.00"
+2359348,2971889,DCINEX CONSULTING,16/12/2013,48509,Other Fees,Development & Regen,Marketing,"£28,875.00"
+225897,2965696,DEANE CLINIC HEALTHCARE LIMITED#P82660,09/12/2013,52200,Contracted Services,Public Health,Sexual Health Improvement,"£1,301.00"
+225897,2965697,DEANE CLINIC HEALTHCARE LIMITED#P82660,09/12/2013,52200,Contracted Services,Public Health,Sexual Health Improvement,£934.00
+139082,2963921,DEANE PHARMACY#WILKINSON PHARMACY LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£590.10
+1645336,2973173,DEFENSIVE DRIVER TRAINING LTD,19/12/2013,19100,Training Exps Tuition Fees,Environmental Services,Transport Support Service,£513.75
+1645336,2980663,DEFENSIVE DRIVER TRAINING LTD,30/12/2013,19100,Training Exps Tuition Fees,Environmental Services,Transport Support Service,£513.75
+1645336,2973181,DEFENSIVE DRIVER TRAINING LTD,19/12/2013,19100,Training Exps Tuition Fees,Environmental Services,Transport Support Service,£531.25
+6259,2966868,DELL CORPORATION LTD,12/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£25,187.50"
+6259,2966869,DELL CORPORATION LTD,12/12/2013,40101,Operational Equipment Maint,Children's Services,Admin IT (Schools),"£34,988.76"
+6259,2966870,DELL CORPORATION LTD,12/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£18,450.00"
+6259,2970262,DELL CORPORATION LTD,16/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£23,950.00"
+45740,2970320,DERBY FIRELEC,12/12/2013,22202,Sewerage & Env'mental Servs,Housing GRF,HMO Licence Fees,"£1,695.00"
+231259,2976301,DESIGN LIGHTS (STAINED GLASS) LTD,23/12/2013,48509,Other Fees,Finance Department,Museum Premises,"£1,730.00"
+398011,2978760,DESIGN SURVEYING PARTNERSHIP LTD,23/12/2013,20100,Day To Day Maintenance,Children's Services,Blackrod Youth Centre,£950.00
+398011,2972805,DESIGN SURVEYING PARTNERSHIP LTD,19/12/2013,48509,Other Fees,Children's Services,Blackrod Youth Centre,"£5,570.40"
+2991,2972441,DESTITUTE ANIMAL SHELTER,16/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£826.00
+192525,2986693,DIAMOND HEALTHCARE (NW) LTD#DERBY STREET PHARMACY,30/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£519.00
+192525,2964320,DIAMOND HEALTHCARE (NW) LTD#DERBY STREET PHARMACY,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£1,036.50"
+2218304,2975901,DISCLOSURE AND BARRING SERVICE,19/12/2013,19400,Disclosure Monitoring,Chief Executives Department,HR  Corporate,"£8,360.00"
+3059,2964488,DOVE MARKETING,05/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£865.00
+125827,2984829,DRI*VMWARE,31/12/2013,45430,Computer Software,Children's Services,Admin IT (Schools),£531.20
+216676,2969983,DRS DIRECT LTD#BIBBY FACTORS LEICESTER LIMITED,12/12/2013,55711,Medical Referees Fees,Chief Executives Department,Occ Health Holding Code,"£1,932.00"
+216676,2966524,DRS DIRECT LTD#BIBBY FACTORS LEICESTER LIMITED,09/12/2013,55711,Medical Referees Fees,Chief Executives Department,Occ Health Holding Code,£900.00
+216676,2969981,DRS DIRECT LTD#BIBBY FACTORS LEICESTER LIMITED,12/12/2013,55711,Medical Referees Fees,Chief Executives Department,Occ Health Holding Code,"£1,080.00"
+216676,2966529,DRS DIRECT LTD#BIBBY FACTORS LEICESTER LIMITED,09/12/2013,55711,Medical Referees Fees,Chief Executives Department,Occ Health Holding Code,£900.00
+10081,2965822,DUGGIE CHAPMAN ASSOCIATES,09/12/2013,48501,Artistes Fees,Environmental Services,Albert Halls Entertainment,"£21,500.00"
+10081,2965821,DUGGIE CHAPMAN ASSOCIATES,09/12/2013,48501,Artistes Fees,Environmental Services,Albert Halls Entertainment,"£21,500.00"
+2373294,2972533,DURBIN PLC,19/12/2013,48202,General Publicity,Public Health,Sexual Health Improvement,£836.00
+6270,2973640,DUVAL SECURITY,19/12/2013,44401,Other Security Expenses,Environmental Services,Markets  Rent Account,"£2,206.06"
+21961,2970490,E.ON ENERGY#2,16/12/2013,21100,Electricity  General,Property Services,Energy Payments Account,"£42,000.00"
+21961,2976322,E.ON ENERGY#2,23/12/2013,21100,Electricity  General,Children's Services,Gt Lever CC,"£2,104.91"
+21961,2970494,E.ON ENERGY#2,16/12/2013,21100,Electricity  General,Central Corporate,Land & Property Portfolios,£784.69
+10232,2981829,ECE CONSULTANCY LTD,30/12/2013,20500,R & M Cremators,Environmental Services,Bereavement Services,£980.00
+283496,2971828,ECOMIX CONCRETE LTD,16/12/2013,40610,Direct Materials,Environmental Services,Highways Maintenance Billable Costs,£501.00
+283496,2971825,ECOMIX CONCRETE LTD,16/12/2013,40610,Direct Materials,Environmental Services,Highways Maintenance Billable Costs,£501.00
+798634,2969433,EDUCATION SUPPORT PROFESSIONALS,12/12/2013,53000,Private Contracted Services,Children's Services,Admin IT (Schools),"£1,442.00"
+6286,2981857,EGBERT H TAYLOR & CO LTD,30/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,£850.00
+6286,2972570,EGBERT H TAYLOR & CO LTD,19/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,£850.00
+2417,2969009,ELECTRICITY NORTH WEST LIMITED#UNITED UTILITIES ELECTRICITY SERVICES LTD,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,444.99"
+40429,2970357,ELVEDEN FARM LIMITED#CHRISTMAS TREE,12/12/2013,40609,Horticultural Materials,Environmental Services,Activities and Operations,"£1,668.00"
+8412,2969523,EMO OIL LTD#WAS SHELL OIL,12/12/2013,21203,Fuel Oil  General,Environmental Services,Heaton Fold,"£1,026.57"
+8412,2972734,EMO OIL LTD#WAS SHELL OIL,19/12/2013,31301,Vehicle Fuel,Environmental Services,Bereavement Services,£761.28
+14251,2969505,ENGINEERING SERVICE CO,12/12/2013,47106,Xmas Lights,Environmental Services,Engineering Projects,"£2,030.50"
+1818290,2967521,EVENT INFRASTRUCTURE AND BRANDING LTD,12/12/2013,48203,Marketing,Central Services,Marketing  General,"£5,245.00"
+45098,2986718,EVENT LIGHTS LTD,30/12/2013,40613,Goods for Resale,Environmental Services,Albert Halls Entertainment,"£6,408.95"
+1579359,2975946,EXCLUSEC SECURITY SOLUTIONS LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£3,139.50"
+21978,2970316,F BREWER & SON,12/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£7,441.00"
+21978,2967765,F BREWER & SON,12/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£882.00
+1555984,2972417,FAUN ZOELLER (UK) LTD,16/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,"£2,763.94"
+1555984,2972342,FAUN ZOELLER (UK) LTD,16/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,"£1,556.00"
+1555984,2971569,FAUN ZOELLER (UK) LTD,16/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,"£1,217.73"
+1555984,2971574,FAUN ZOELLER (UK) LTD,16/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£600.00
+132270,2981066,FINE TURF SERVICES#FTS,30/12/2013,53000,Private Contracted Services,Environmental Services,Assets,"£14,250.00"
+3430,2970351,FIRST MANCHESTER LTD & FIRST TRANSFORMING TRAVEL,12/12/2013,34401,Clients  Bus Fares,Children's Services,Contact & Direct Work,£807.50
+68598,2969274,FIRSTCALL HEALTHCARE#PASSHALL LTD,12/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£54,563.00"
+713592,2964494,FISC HEALTHCARE,05/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£741.25
+21311,2972508,FLASHLIGHT LIMITED,19/12/2013,40100,Operational Equipment Purchase,Environmental Services,Albert Halls  Operations,£751.02
+34345,2975942,FOOLS PARADISE LTD,23/12/2013,48203,Marketing,Central Services,Marketing  General,£995.00
+34345,2970947,FOOLS PARADISE LTD,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,420.00"
+261782,2987360,FORTALICE LTD#BOLTON WOMENS AID,30/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£17,254.06"
+3465,2971757,FOSTERING NETWORK,16/12/2013,48509,Other Fees,Children's Services,Regional Activities,"£4,795.36"
+2455290,2980449,FUSION#2,23/12/2013,48509,Other Fees,Environmental Services,Neighbourhood Management Programme,"£2,000.00"
+3510,2969791,G & S SMIRTHWAITE LTD,12/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£542.00
+1432045,2978718,GARDINER & THEOBALD LLP,23/12/2013,Z1051,Work in Progress Additions,Property Services,Corporate Property Capital Project Transfers to Other Projects,"£1,000.00"
+1432045,2967914,GARDINER & THEOBALD LLP,12/12/2013,Z1051,Work in Progress Additions,Property Services,Corporate Property Capital Project Transfers to Other Projects,"£3,000.00"
+220061,2976186,GATENBYSANDERSON,23/12/2013,48510,Consultancy Fees,Adult Services,AD Departmental Management Team,"£13,063.76"
+2213290,2967931,GB BUILDING SOLUTIONS,12/12/2013,Z1051,Work in Progress Additions,Central Corporate,Corporate Property Balance Sheet,"£365,000.00"
+3561,2969725,GEORGE HOUSE TRUST,23/12/2013,44054,Other Clients Services,Public Health,HIV,"£1,084.75"
+1666291,2968031,GERRARD SEEL LTD,12/12/2013,41106,Bar Stock,Environmental Services,Civic Catering  Town Hall Bar,£731.24
+2284341,2978664,GLITTERFISH LIMITED,23/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,"£4,400.00"
+186916,2976050,GMS SERVICES LIMITED,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£976.00
+170064,2980640,REDACTED - PERSONAL DATA#ALSTON ASSOCIATES,30/12/2013,48509,Other Fees,Children's Services,Primary Commissioning,"£3,960.00"
+2036308,2972428,GOVDELIVERY,16/12/2013,45401,Computer Maintenance,Finance Department,Web Team,"£1,932.00"
+2287325,2965036,GRAHAM ASSET MANAGEMENT LTD,05/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,155.00"
+178961,2966495,GREAT PLACES HOUSING ASSOCIATION,09/12/2013,52210,Contracted Services  Rental Voids,Adult Services,LD Purchaser Supported Housing,£509.80
+178961,2966502,GREAT PLACES HOUSING ASSOCIATION,09/12/2013,52210,Contracted Services  Rental Voids,Adult Services,LD Purchaser Supported Housing,£523.52
+178961,2966472,GREAT PLACES HOUSING ASSOCIATION,09/12/2013,52210,Contracted Services  Rental Voids,Adult Services,LD Provider  Supported Housing,£520.48
+178961,2987361,GREAT PLACES HOUSING ASSOCIATION,30/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£14,779.57"
+178961,2969303,GREAT PLACES HOUSING ASSOCIATION,12/12/2013,Z1051,Work in Progress Additions,Adult Services,Adult Services Balance Sheet,"£14,960.76"
+97185,2965576,GREATER MANCHESTER CHAMBER OF COMMERCE,05/12/2013,47200,General Subscriptions,Development & Regen,Local Economy and Tourism,"£1,060.00"
+123878,2980654,GREATER MANCHESTER INDUSTRIAL MISSION TRUST,30/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£11,250.00"
+477504,2965639,GREENCHEM SOLUTIONS LTD,05/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,£545.92
+15577,2986753,GROUNDWORK LANDSCAPES LIMITED,30/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£3,725.00"
+15577,2972481,GROUNDWORK LANDSCAPES LIMITED,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£4,208.00"
+6357,2974249,HALLIWELL BEFRIENDING SERVICE,19/12/2013,52200,Contracted Services,Adult Services,OA  Day Care Provision  external,"£4,000.00"
+10419,2967684,HALTON CONTAINER SERVICES LTD,12/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£1,360.00"
+10419,2967693,HALTON CONTAINER SERVICES LTD,23/12/2013,53000,Private Contracted Services,Environmental Services,Trade Waste,"£4,287.10"
+10419,2967683,HALTON CONTAINER SERVICES LTD,12/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£1,160.00"
+10419,2967688,HALTON CONTAINER SERVICES LTD,12/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£1,360.00"
+10419,2967690,HALTON CONTAINER SERVICES LTD,12/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£2,700.00"
+10419,2967685,HALTON CONTAINER SERVICES LTD,12/12/2013,53000,Private Contracted Services,Environmental Services,Waste,£513.50
+6358,2986467,HANSON AGGREGATES,30/12/2013,40610,Direct Materials,Environmental Services,Highways Maintenance Billable Costs,£710.10
+6358,2972395,HANSON AGGREGATES,16/12/2013,40610,Direct Materials,Environmental Services,Highways Maintenance Billable Costs,"£1,183.50"
+2255291,2975808,HAPPY MUSIC LIMITED,19/12/2013,48517,Fees/Expenses Schools,Children's Services,Music ServMusic Service general,£980.00
+6360,2967652,REDACTED - PERSONAL DATA,12/12/2013,20100,Day To Day Maintenance,Environmental Services,Markets  Rent Account,"£1,345.76"
+6360,2981787,REDACTED - PERSONAL DATA,30/12/2013,20100,Day To Day Maintenance,Environmental Services,Depots,"£1,158.00"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,Home Support Reablement,£713.21
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,MH Dementia and Complex Care Fieldwork Team,£843.60
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,MH North Fieldwork Team,"£1,650.08"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,OA  Alderbank  Residential,"£1,459.39"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,OA  Darley Court Intermediate Care,£896.36
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,OA  Firwood  Residential,£802.03
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  Management,"£1,571.93"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  North,"£2,419.40"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Adult Services,Urgent Care,"£1,801.51"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Chief Executives Department,Occupational Health Unit,£622.89
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Activities and Operations,"£3,068.86"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Civic Cleaning,"£2,303.59"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Management & Overheads,£802.16
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Performance and Improvement,£786.37
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Regulatory Services,£630.00
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Regulatory Services Licensing,£713.36
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Transport Support Service,£744.83
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Environmental Services,Waste,"£20,365.92"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Development & Regen,Divisional Development,£528.00
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Development & Regen,Economic Strategy,"£1,003.57"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Development & Regen,Investment and Development,£623.82
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Development & Regen,The Work Programme,£550.17
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Admin Strategy&Performance,£564.97
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Business Support    South District,"£2,555.81"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ Central Team,£637.64
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ North District,"£3,612.64"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Child Prot Leaving Care Team,"£1,030.94"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs North,"£1,226.88"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs South,"£2,972.06"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs West,"£1,336.59"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Targeted Youth Support,£584.54
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Children's Services,Youth & Play Management Team,£665.14
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Finance Department,C.R.M. Operations,"£8,196.67"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Finance Department,Council Tax,£625.57
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Finance Department,Finance Dept Procurement Team,"£1,073.62"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Finance Department,Financial Management,£671.55
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Advice,£949.13
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Property Services,Accomm Rationalisation Strategy,"£1,045.23"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Property Services,Operational Facilities Management,£668.59
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Property Services,Projects,"£1,897.55"
+867656,2970839,HAYS SPECIALIST RECRUITMENT,16/12/2013,53102,Agency Staff  Other,Legal Trading,Legal Services Trading Account,"£7,335.07"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,ACM  Management,£985.32
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,Home Support Reablement,"£1,437.32"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,MH Dementia and Complex Care Fieldwork Team,£843.60
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,MH North Fieldwork Team,£935.52
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,OA  Alderbank  Residential,£707.18
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,OA  Darley Court Intermediate Care,"£2,298.13"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,OA  Firwood  Residential,£895.16
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,OA  Residential Services Miscellaneous,£995.49
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,OA  Winifred Kettle  Residential,£579.52
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  Management,"£1,508.08"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  North,"£1,222.50"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Adult Services,Urgent Care,"£1,801.51"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Chief Executives Department,Occupational Health Unit,£775.23
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Activities and Operations,"£3,328.16"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Bereavement Services,"£1,087.80"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Business Support,£758.80
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Civic Cleaning,£805.72
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Management & Overheads,£802.16
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Neighbourhood Management Support,£888.88
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Performance and Improvement,£773.18
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Regulatory Services,£630.00
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Regulatory Services Licensing,£649.37
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Transport Support Service,"£2,249.97"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Environmental Services,Waste,"£40,210.86"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Development & Regen,Divisional Development,£520.96
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Development & Regen,Economic Strategy,£550.18
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Development & Regen,The Work Programme,£550.17
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Admin Strategy&Performance,£564.97
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Business Support    South District,"£2,813.21"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ Central Team,£637.64
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ North District,"£4,583.04"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Child Prot Leaving Care Team,"£1,064.14"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs North,"£1,174.21"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs South,"£3,698.49"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs West,"£1,906.93"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Safeguarding Team South,"£3,887.40"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Targeted Youth Support,£566.94
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Children's Services,Youth & Play Management Team,"£1,035.82"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Finance Department,C.R.M. Operations,"£9,885.03"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Finance Department,Council Tax,£764.66
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Finance Department,Customer Services,"£1,583.61"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Finance Department,Finance Ap Centre of Excellence,£754.60
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Finance Department,Finance Dept Procurement Team,£873.47
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Finance Department,Financial Management,£671.55
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Advice,"£1,034.39"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Standards,£575.63
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Property Services,Accomm Rationalisation Strategy,£814.61
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Property Services,Operational Facilities Management,£668.57
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Property Services,Projects,"£1,896.35"
+867656,2965595,HAYS SPECIALIST RECRUITMENT,05/12/2013,53102,Agency Staff  Other,Legal Trading,Legal Services Trading Account,"£7,402.72"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,ACM  Management,£985.30
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,Home Support Reablement,£793.80
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,MH North Fieldwork Team,£769.21
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,OA  Alderbank  Residential,"£2,497.79"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,OA  Darley Court Intermediate Care,"£3,727.02"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,OA  Laburnum Lodge  Residential,£594.86
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,OA  Residential Services Miscellaneous,£518.30
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,OA  Winifred Kettle  Residential,"£10,346.87"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  Management,"£1,663.13"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Adult Services,Urgent Care,"£1,801.51"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Chief Executives Department,Occupational Health Unit,£712.91
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Activities and Operations,"£16,152.97"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Bereavement Services,£721.50
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Business Support,"£1,155.56"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Civic Cleaning,£966.37
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Management & Overheads,£802.16
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Markets  Rent Account,"£6,845.87"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Neighbourhood Management Support,"£1,051.48"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Performance and Improvement,£858.80
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Regulatory Services,£630.00
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Transport Support Service,£558.62
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Environmental Services,Waste,"£12,833.53"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Development & Regen,Divisional Development,£556.16
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Development & Regen,Economic Strategy,£777.82
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Development & Regen,The Work Programme,£550.17
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Admin Strategy&Performance,£564.97
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Business Support    South District,"£3,019.36"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ Central Team,£603.45
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ Education Team,£720.76
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ North District,"£3,538.29"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Child Prot Leaving Care Team,"£1,046.54"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs North,£963.49
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs South,"£3,262.89"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs West,"£2,572.90"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Safeguarding Team South,£843.60
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Targeted Youth Support,£615.32
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Children's Services,Youth & Play Management Team,£626.51
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,C.R.M. Operations,"£7,775.07"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,Council Tax,£802.37
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,Customer Services,"£2,134.75"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,Finance Ap Centre of Excellence,£565.95
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,Finance Dept Procurement Team,"£1,083.54"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,Financial Management,£671.55
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Finance Department,Internal Audit,"£1,809.36"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Advice,"£1,048.60"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Standards,£552.19
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Property Services,Accomm Rationalisation Strategy,£896.35
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Property Services,Operational Facilities Management,£668.59
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Property Services,Projects,"£1,896.75"
+867656,2965963,HAYS SPECIALIST RECRUITMENT,09/12/2013,53102,Agency Staff  Other,Legal Trading,Legal Services Trading Account,"£8,007.37"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,ACM  Management,"£1,955.16"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,Home Support Reablement,"£1,593.52"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,MH Dementia and Complex Care Fieldwork Team,£874.00
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,MH North Fieldwork Team,"£2,715.17"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,OA  Alderbank  Residential,"£2,145.53"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,OA  Darley Court Intermediate Care,"£1,513.90"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,OA  Firwood  Residential,£841.23
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,OA  Laburnum Lodge  Residential,"£1,150.19"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,OA  Residential Services Miscellaneous,£884.23
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,OA  Winifred Kettle  Residential,"£3,371.89"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  Management,"£1,571.93"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,STARS & ILS  North,"£1,239.02"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Adult Services,Urgent Care,£914.25
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Chief Executives Department,Occupational Health Unit,£796.61
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Environmental Services,Activities and Operations,"£1,074.06"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Environmental Services,Management & Overheads,£778.64
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Environmental Services,Neighbourhood Management Support,"£1,289.96"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Environmental Services,Performance and Improvement,£858.80
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Environmental Services,Transport Support Service,"£3,918.71"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Environmental Services,Waste,"£9,520.37"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Development & Regen,Divisional Development,£520.96
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Development & Regen,Economic Strategy,£777.82
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Development & Regen,Investment and Development,"£1,094.40"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Development & Regen,The Work Programme,£660.65
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Admin Strategy&Performance,£564.97
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Business Support    South District,"£2,704.59"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ Central Team,"£1,301.50"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Business Support â€“ North District,"£3,311.46"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Child Prot Leaving Care Team,"£1,030.54"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs North,"£1,086.84"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs South,"£5,037.65"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Children and Family Supp Svs West,"£2,469.68"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Children's Services,Safeguarding Team South,£547.20
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,C.R.M. Operations,"£8,381.38"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,Council Tax,£792.19
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,Customer Services,"£2,495.76"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,Finance Ap Centre of Excellence,"£1,056.44"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,Finance Dept Procurement Team,"£1,023.64"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,Financial Management,£671.55
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Finance Department,Internal Audit,"£1,362.41"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Housing GRF,Furnished Tenancies,£718.71
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Advice,£525.77
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Housing GRF,Housing Standards,£937.89
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Property Services,Accomm Rationalisation Strategy,£967.45
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Property Services,Operational Facilities Management,£668.57
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Property Services,Projects,"£1,897.15"
+867656,2978761,HAYS SPECIALIST RECRUITMENT,23/12/2013,53102,Agency Staff  Other,Legal Trading,Legal Services Trading Account,"£9,053.54"
+13239,2978708,HEIGHTVALE LTD#ONE CALL#BOLTON CARPETS & UPHOLSTERY SVCS LTD,23/12/2013,20100,Day To Day Maintenance,Children's Services,Barlow Park YC,"£27,407.90"
+2284374,2978705,HELENA PARTNERSHIPS#HELENA COMMERCIAL SERVICES,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,421.61"
+118458,2976114,HIBBERT COMMUNITY REGENERATION CENTRE LTD,23/12/2013,52200,Contracted Services,Children's Services,Admin Commissioning,"£3,750.00"
+118458,2975356,HIBBERT COMMUNITY REGENERATION CENTRE LTD,19/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£10,000.00"
+76828,2971517,HOLTWOOD HOUSE#FACTOR ARC ADVENTURE (BURY) LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Disability Serv External Provision,"£10,920.58"
+76828,2971357,HOLTWOOD HOUSE#FACTOR ARC ADVENTURE (BURY) LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Disability Serv External Provision,"£4,999.96"
+76828,2971515,HOLTWOOD HOUSE#FACTOR ARC ADVENTURE (BURY) LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Disability Serv External Provision,"£10,504.34"
+1617292,2986780,HOMECARE SUPPORT,30/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£61,013.19"
+1617292,2986779,HOMECARE SUPPORT,30/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£41,100.15"
+1617292,2967542,HOMECARE SUPPORT,12/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£58,529.10"
+1617292,2967546,HOMECARE SUPPORT,12/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£41,530.02"
+2155324,2967772,ICE AID,12/12/2013,48203,Marketing,Central Services,Marketing  General,"£10,000.00"
+302829,2969760,IDOX SOFTWARE LTD,12/12/2013,45431,Computer Software Licences,Development & Regen,Spatial Data  from GIS,"£17,454.55"
+302829,2971652,IDOX SOFTWARE LTD,16/12/2013,45431,Computer Software Licences,Environmental Services,Regulatory Services Licensing,"£6,998.83"
+1582048,2974067,IDS LAND SURVEY,19/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,000.00"
+70624,2969432,IMERJA LIMITED,12/12/2013,40101,Operational Equipment Maint,Children's Services,Admin IT (Schools),"£3,750.00"
+59967,2966353,IMPACT MARKETING & PUBLICITY LTD,09/12/2013,48629,Miscellaneous Expenses,Adult Services,OA  Community Meals,£695.00
+1194842,2971731,IMPRESSION (BOLTON) LIMITED#1,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,640.00"
+1194842,2971732,IMPRESSION (BOLTON) LIMITED#1,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£2,090.00"
+1194842,2971737,IMPRESSION (BOLTON) LIMITED#1,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£3,150.00"
+1194842,2974062,IMPRESSION (BOLTON) LIMITED#1,19/12/2013,20504,Signage,Environmental Services,Assets,£600.00
+1853301,2971745,IMPROVING SCHOOLS EFFECTIVENESS,16/12/2013,19103,Training Exp  In House,Children's Services,CE Funding  Intervention  Secondary,£500.00
+1581897,2969525,INDEPENDENT BUSINESS SERVICES LTD,12/12/2013,48509,Other Fees,Children's Services,Pupil & Student Services,"£1,650.00"
+3909,2966875,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,12/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£3,599.33"
+3909,2972151,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,16/12/2013,40140,Office Equipment Purchase,Children's Services,Admin IT (Schools),"£6,300.00"
+3909,2966873,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,12/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£2,952.15"
+3909,2966874,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,12/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),£894.23
+3909,2966871,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,12/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£9,044.80"
+3909,2975632,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,30/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£1,739.47"
+3909,2975633,INFORMATION & DATA NETWORK SUPPLIES LTD#IDN,30/12/2013,45400,Computer Purchase,Children's Services,Admin IT (Schools),"£1,968.75"
+2474468,2965100,INFORMATION TECHNOLOGY RENTALS LIMITED,05/12/2013,45433,ECDL Courseware Hosting,Children's Services,Admin IT (Schools),£520.00
+2485303,2973861,INSOLVENCY SERVICES ACCOUNT RE: ELLENA MORRIS,19/12/2013,Z9744,Payroll Suspense Other Adjustments,Payroll Deductions,Manual Adj / BACS Recovery,"£10,298.87"
+3951,2973152,INTEGRATE (PRESTON & CHORLEY) LTD,19/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£5,719.16"
+3969,2987363,IRWELL VALLEY HOUSING ASSOCIATION,30/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£16,368.33"
+3969,2964422,IRWELL VALLEY HOUSING ASSOCIATION,05/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£2,896.65"
+2178306,2978757,ISG CONSTRUCTION LTD,23/12/2013,Z1051,Work in Progress Additions,Property Services,Property Services Balance Sheet,"£204,319.53"
+267154,2965692,J A TYRE SERVICE LTD,09/12/2013,31303,Tyres,Environmental Services,Transport Support Service,£643.00
+267154,2965694,J A TYRE SERVICE LTD,09/12/2013,31303,Tyres,Environmental Services,Transport Support Service,£560.80
+267154,2979179,J A TYRE SERVICE LTD,23/12/2013,31303,Tyres,Environmental Services,Transport Support Service,£692.40
+267154,2979196,J A TYRE SERVICE LTD,23/12/2013,31303,Tyres,Environmental Services,Transport Support Service,£513.95
+267154,2972352,J A TYRE SERVICE LTD,16/12/2013,31303,Tyres,Environmental Services,Transport Support Service,£649.25
+267154,2965688,J A TYRE SERVICE LTD,09/12/2013,31303,Tyres,Environmental Services,Transport Support Service,£714.00
+6399,2966562,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£515.46
+6399,2966569,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£577.99
+6399,2981115,J DICKINSON & SONS (HORWICH) LTD#2,30/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£623.68
+6399,2985894,J DICKINSON & SONS (HORWICH) LTD#2,30/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£951.60
+6399,2966930,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,33202,Plant Hire,Environmental Services,Activities and Operations,"£2,081.64"
+6399,2966925,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,40601,General Materials,Environmental Services,Activities and Operations,"£1,861.74"
+6399,2968732,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,40601,General Materials,Environmental Services,Activities and Operations,£926.04
+6399,2965750,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,40610,Direct Materials,Environmental Services,Highway Services,"£4,381.96"
+6399,2981467,J DICKINSON & SONS (HORWICH) LTD#2,30/12/2013,40610,Direct Materials,Environmental Services,Highway Services,"£4,375.07"
+6399,2968842,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,20101,Programmed Maint. Work,Environmental Services,Highways Managers,£669.19
+6399,2969311,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,20101,Programmed Maint. Work,Environmental Services,Highways Managers,"£1,925.33"
+6399,2965448,J DICKINSON & SONS (HORWICH) LTD#2,05/12/2013,20501,Engineering Work,Environmental Services,Highways Managers,"£2,834.20"
+6399,2965449,J DICKINSON & SONS (HORWICH) LTD#2,05/12/2013,20501,Engineering Work,Environmental Services,Highways Managers,"£2,045.29"
+6399,2964467,J DICKINSON & SONS (HORWICH) LTD#2,05/12/2013,20501,Engineering Work,Environmental Services,Waste,£633.04
+6399,2968334,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,544.25"
+6399,2968337,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£843.20
+6399,2968341,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,539.00"
+6399,2968346,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,316.40"
+6399,2968321,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,219.50"
+6399,2968325,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£2,492.24"
+6399,2967649,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,26106,Refuse Collection,Environmental Services,Markets  Rent Account,£717.15
+6399,2965827,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,26106,Refuse Collection,Environmental Services,Markets  Rent Account,"£4,695.96"
+6399,2965829,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£1,929.41"
+6399,2966635,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£741.00
+6399,2971716,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,"£1,046.58"
+6399,2971771,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£890.04
+6399,2971775,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£688.36
+6399,2971898,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Bereavement Services,£634.03
+6399,2986698,J DICKINSON & SONS (HORWICH) LTD#2,30/12/2013,26106,Refuse Collection,Environmental Services,Bereavement Services,£720.10
+6399,2966638,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£517.11
+6399,2968621,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£511.85
+6399,2968632,J DICKINSON & SONS (HORWICH) LTD#2,12/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£513.89
+6399,2971479,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£638.79
+6399,2971482,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£553.46
+6399,2971507,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,"£1,531.26"
+6399,2971516,J DICKINSON & SONS (HORWICH) LTD#2,16/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£841.34
+6399,2966715,J DICKINSON & SONS (HORWICH) LTD#2,09/12/2013,26106,Refuse Collection,Environmental Services,Activities and Operations,£560.58
+6401,2965755,J HOPKINS (CONTRACTORS) LTD,09/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£9,828.00"
+6401,2968408,J HOPKINS (CONTRACTORS) LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£10,080.00"
+6401,2972544,J HOPKINS (CONTRACTORS) LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£10,080.00"
+6401,2976246,J HOPKINS (CONTRACTORS) LTD,23/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£10,436.80"
+6401,2986816,J HOPKINS (CONTRACTORS) LTD,30/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£11,065.40"
+6401,2986819,J HOPKINS (CONTRACTORS) LTD,30/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£17,214.18"
+6403,2967959,J PHILLIPS & SONS LTD#1,12/12/2013,20100,Day To Day Maintenance,Property Services,Town Hall,"£83,650.00"
+4036,2980684,J W WHITTLE LIMITED#STORE-AWAY ARCHIVE FACILITIES,30/12/2013,22006,Rent of Storage Facilities,Finance Department,Museum Premises,£552.00
+2112387,2969709,J W YOUNG (BUTCHERS) LIMITED,12/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,"£2,074.80"
+2112387,2967996,J W YOUNG (BUTCHERS) LIMITED,12/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,"£1,932.02"
+2112387,2971741,J W YOUNG (BUTCHERS) LIMITED,16/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,"£1,888.74"
+58940,2963764,JAMES & HAGUE,05/12/2013,Z1051,Work in Progress Additions,Property Services,Corporate Property Capital Project Transfers to Other Projects,"£1,288.35"
+162290,2970436,JAN WHITE CONSULTANCY,16/12/2013,48526,Strategic Projects,Children's Services,Business Admin,"£1,930.34"
+58799,2972385,JAY FOSTERING LIMITED,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,311.36"
+58799,2972405,JAY FOSTERING LIMITED,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,467.05"
+166850,2975780,JCM SEATING SOLUTIONS,19/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£2,741.50"
+14562,2975916,JDC COMMUNICATIONS LIMITED,19/12/2013,40100,Operational Equipment Purchase,Environmental Services,Security Services,"£2,400.00"
+2491291,2987362,JEWELGLEN LIMITED (PARKVIEW),30/12/2013,45914,Commissioning Worklessness,Development & Regen,The Work Programme,£750.00
+213806,2966545,REDACTED - PERSONAL DATA T/A JORCHID,09/12/2013,55711,Medical Referees Fees,Chief Executives Department,Occ Health Holding Code,£960.00
+259785,2980453,REDACTED - PERSONAL DATA,23/12/2013,48526,Strategic Projects,Children's Services,Business Admin,"£1,200.00"
+325891,2971120,JOE DAVIES (MANCHESTER) LTD,16/12/2013,40609,Horticultural Materials,Environmental Services,Heaton Fold,£899.68
+2921,2971848,JOHN DAVIDSON (PIPES) LTD#1,16/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,659.00"
+1122809,2970373,JONES LIGHTING LTD,12/12/2013,20501,Engineering Work,Environmental Services,Highway Services,"£1,236.90"
+343173,2965839,JULIE STIRPE ASSOCIATES LIMITED,09/12/2013,48509,Other Fees,Children's Services,Management Team,£626.16
+1804304,2971449,KANA SOFTWARE IRELAND LIMITED#KANA SOLUTIONS,16/12/2013,45430,Computer Software,Finance Department,T&B Systems Project Team,"£3,413.99"
+311036,2965860,KATE BRAMALL,09/12/2013,48502,Legal Fees,Children's Services,Management Team,"£1,250.00"
+424427,2980374,KCOM GROUP PLC,23/12/2013,52200,Contracted Services,Property Services,Projects,"£1,887.50"
+424427,2972843,KCOM GROUP PLC,19/12/2013,20101,Programmed Maint. Work,Property Services,Accomm Rationalisation Strategy,"£13,837.50"
+424427,2965535,KCOM GROUP PLC,09/12/2013,40101,Operational Equipment Maint,Children's Services,Admin IT (Schools),"£6,650.00"
+424427,2966866,KCOM GROUP PLC,12/12/2013,40101,Operational Equipment Maint,Children's Services,Admin IT (Schools),"£1,188.00"
+424427,2965532,KCOM GROUP PLC,09/12/2013,40100,Operational Equipment Purchase,Children's Services,Admin IT (Schools),"£23,845.16"
+424427,2965534,KCOM GROUP PLC,09/12/2013,40100,Operational Equipment Purchase,Children's Services,Admin IT (Schools),"£23,827.48"
+424427,2965533,KCOM GROUP PLC,09/12/2013,40100,Operational Equipment Purchase,Children's Services,Admin IT (Schools),"£23,920.42"
+2491290,2987359,KEARSLEY MANUFACTURING LIMITED,30/12/2013,45914,Commissioning Worklessness,Development & Regen,The Work Programme,£750.00
+101173,2965683,KEYMEN ASSOCIATES LTD#MAYDAY,05/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£11,250.79"
+101173,2985891,KEYMEN ASSOCIATES LTD#MAYDAY,30/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£17,898.82"
+101173,2965739,KEYMEN ASSOCIATES LTD#MAYDAY,09/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£10,277.91"
+2198,2986711,KPMG LLP,30/12/2013,48519,External Audit Fees,Finance Department,Financial Management,"£36,978.50"
+162508,2970042,L H TECHNICAL SOLUTIONS,12/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£1,250.00"
+2433402,2972750,LAFARGE TARMAC TRADING LIMITED,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,298.22"
+2433402,2971872,LAFARGE TARMAC TRADING LIMITED,16/12/2013,40601,General Materials,Environmental Services,Activities and Operations,"£1,064.87"
+2433402,2966923,LAFARGE TARMAC TRADING LIMITED,09/12/2013,40601,General Materials,Environmental Services,Activities and Operations,£900.81
+2433402,2969892,LAFARGE TARMAC TRADING LIMITED,12/12/2013,40601,General Materials,Environmental Services,Activities and Operations,"£1,025.96"
+2433402,2976072,LAFARGE TARMAC TRADING LIMITED,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£640.08
+2433402,2976069,LAFARGE TARMAC TRADING LIMITED,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£553.50
+2433402,2968365,LAFARGE TARMAC TRADING LIMITED,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,049.87"
+2433402,2968376,LAFARGE TARMAC TRADING LIMITED,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,323.69"
+2433402,2968398,LAFARGE TARMAC TRADING LIMITED,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£635.42
+2433402,2968401,LAFARGE TARMAC TRADING LIMITED,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,310.96"
+2433402,2971108,LAFARGE TARMAC TRADING LIMITED,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£610.56
+2433402,2975884,LAFARGE TARMAC TRADING LIMITED,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£996.38
+2433402,2975886,LAFARGE TARMAC TRADING LIMITED,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£823.17
+2146291,2976100,LAMBERT WALKER CONSERVATION AND RESTORATION LTD,23/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£40,842.74"
+2146291,2967957,LAMBERT WALKER CONSERVATION AND RESTORATION LTD,12/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£40,842.74"
+2101292,2965698,LANCS TRANSMISSIONS LTD,09/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£591.25
+6442,2971124,LANDSCAPE ENGINEERING LTD,16/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£2,000.00"
+36518,2970324,LANGHAM,12/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£672.00
+413120,2967798,LAS MANCHESTER LTD,12/12/2013,48203,Marketing,Central Services,Marketing  General,"£3,080.00"
+72200,2969549,LAST DROP VILLAGE HOTEL AND SPA#MERCURE,12/12/2013,19100,Training Exps Tuition Fees,Children's Services,CWPD Programme,"£2,707.00"
+4547,2986708,LEXISNEXIS UK,30/12/2013,47200,General Subscriptions,Finance Department,Financial Management,£575.00
+1104799,2980521,LIAM TRIPPIER SCHOOL IMPROVEMENT LTD,23/12/2013,48509,Other Fees,Children's Services,CE Funding  Intervention  Primary,"£3,090.06"
+1104799,2980521,LIAM TRIPPIER SCHOOL IMPROVEMENT LTD,23/12/2013,48509,Other Fees,Children's Services,Primary Commissioning,"£3,465.00"
+514522,2976198,LIFELINE PROJECT LTD,23/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£20,833.17"
+514522,2973896,LIFELINE PROJECT LTD,19/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£66,460.42"
+514522,2973893,LIFELINE PROJECT LTD,19/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£28,956.75"
+514522,2973897,LIFELINE PROJECT LTD,19/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£70,631.75"
+479528,2963869,LK CONSULT LIMITED,05/12/2013,48510,Consultancy Fees,Environmental Services,Regulatory Services,£605.00
+479528,2968919,LK CONSULT LIMITED,12/12/2013,48510,Consultancy Fees,Environmental Services,Regulatory Services,£550.00
+479528,2975880,LK CONSULT LIMITED,19/12/2013,48510,Consultancy Fees,Environmental Services,Regulatory Services,£522.50
+479528,2971508,LK CONSULT LIMITED,16/12/2013,48510,Consultancy Fees,Environmental Services,Regulatory Services,£605.00
+1598333,2966520,LOCAL SOLUTIONS,12/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£20,893.79"
+1598333,2985890,LOCAL SOLUTIONS,30/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£16,562.53"
+998733,2969065,LORIMER FOSTER SERVICES,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,407.14"
+524532,2971541,LPW (EUROPE) LTD,16/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,"£1,134.00"
+1483102,2966467,LUCAS TRAINING & CONSULTANCY LIMITED,09/12/2013,48526,Strategic Projects,Children's Services,Business Admin,£900.00
+6188,2969541,LUCY ZODION LIMITED,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,809.00"
+6188,2969540,LUCY ZODION LIMITED,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,206.00"
+6188,2969536,LUCY ZODION LIMITED,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£6,633.00"
+6188,2969533,LUCY ZODION LIMITED,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,407.00"
+6188,2969529,LUCY ZODION LIMITED,23/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£2,814.00"
+6188,2963788,LUCY ZODION LIMITED,05/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£5,030.79"
+6188,2969547,LUCY ZODION LIMITED,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,413.00"
+6188,2969544,LUCY ZODION LIMITED,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£6,030.00"
+6464,2963774,MAKING SPACE#4,19/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£3,606.79"
+6464,2974194,MAKING SPACE#4,19/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£1,832.95"
+38192,2972789,MALCOLM HUGHES LAND SURVEYORS,19/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£3,835.45"
+7903,2968800,MALCOLM NICHOLSON & SON,12/12/2013,36200,Uninsured Losses  Vehicles,Environmental Services,Transport Support Service,"£3,489.10"
+7903,2971585,MALCOLM NICHOLSON & SON,16/12/2013,36200,Uninsured Losses  Vehicles,Environmental Services,Transport Support Service,"£1,593.08"
+42019,2987499,MANCHESTER BOOK CENTRE,30/12/2013,40753,Book Fund Expenditure,Finance Department,Libraries Info. Services,"£1,707.48"
+4742,2965611,MANCHESTER LIGHT & STAGE LTD,05/12/2013,48203,Marketing,Central Services,Marketing  General,"£7,741.00"
+17968,2964569,MANGAR INTERNATIONAL,05/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£1,650.00"
+130485,2963930,MANOR PHARMACY#VARIOUS CHEMISTS,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£577.00
+33285,2978803,MANUSCRIPTI LTD,23/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£44,939.00"
+17742,2967536,REDACTED - PERSONAL DATA,12/12/2013,19100,Training Exps Tuition Fees,Chief Executives Department,Organisational Development,£975.00
+17742,2971710,REDACTED - PERSONAL DATA,16/12/2013,19100,Training Exps Tuition Fees,Chief Executives Department,Organisational Development,"£1,235.00"
+17742,2968806,REDACTED - PERSONAL DATA,12/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Childrens,£770.00
+17742,2972715,REDACTED - PERSONAL DATA,19/12/2013,19102,Training Exps Travel and Subs,Adult Services,Staff Development  Adults,£665.00
+13707,2969537,REDACTED - PERSONAL DATA#TREE SURGEON,12/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£4,800.00"
+6458,2986752,MARK MANGNALL & SON,30/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£833.00
+6458,2963790,MARK MANGNALL & SON,05/12/2013,20100,Day To Day Maintenance,Property Services,Accomm Rationalisation Strategy,"£2,826.00"
+2318334,2964614,REDACTED - PERSONAL DATA,05/12/2013,48204,Promoting Events,Children's Services,Gtr Manchester Music Education Hub,£583.00
+130486,2964314,MARKET PHARMACY#CLAMARY LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£1,008.90"
+874657,2963826,MARSH (BOLTON) LTD T/A COHENS CHEMIST,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£573.90
+874657,2963924,MARSH (BOLTON) LTD T/A COHENS CHEMIST,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£670.10
+874657,2967001,MARSH (BOLTON) LTD T/A COHENS CHEMIST,09/12/2013,52200,Contracted Services,Public Health,Smoking,£527.43
+4792,2971480,MARTHALL TREE PRODUCTS LTD,23/12/2013,40601,General Materials,Environmental Services,Activities and Operations,£724.86
+6472,2965182,MARWOOD ELECTRICAL COMPANY LTD,05/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£5,760.36"
+1216850,2975969,MATTER RETAIL LTD#MUSIC MATTER,23/12/2013,40140,Office Equipment Purchase,Public Health,Get Active,"£1,272.47"
+2349295,2965158,MEADOWS CARE LIMITED,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£1,372.00"
+1598332,2975915,MEARS CARE LTD,19/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£13,513.36"
+1598332,2975914,MEARS CARE LTD,19/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£13,057.96"
+6479,2972837,MEDWAY HEATING (BOLTON)  LTD,19/12/2013,Z1051,Work in Progress Additions,Adult Services,Adult Services Balance Sheet,"£78,696.28"
+6479,2972838,MEDWAY HEATING (BOLTON)  LTD,19/12/2013,Z1051,Work in Progress Additions,Adult Services,Adult Services Balance Sheet,"£83,387.14"
+6479,2968609,MEDWAY HEATING (BOLTON)  LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£2,219.55"
+1759300,2986789,MEON MARKETING LLP,30/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£2,903.04"
+267311,2964568,MERITEC LIMITED,05/12/2013,19400,Disclosure Monitoring,Finance Department,Welfare Rights,"£13,243.46"
+267311,2986797,MERITEC LIMITED,30/12/2013,53102,Agency Staff  Other,Finance Department,Housing Benefits,"£34,571.67"
+2428575,2963809,METROPOLITAN HOUSING TRUST LTD,05/12/2013,48629,Miscellaneous Expenses,Children's Services,Referral & Assmt Team South,£983.96
+385630,2973567,MGB PLASTICS LTD,19/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£5,175.00"
+385630,2973571,MGB PLASTICS LTD,19/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£5,175.00"
+4896,2974190,MHIST,19/12/2013,52200,Contracted Services,Adult Services,MH Day Care External Provision,"£5,250.00"
+2463318,2965705,MICRO DRAINAGE LTD,09/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£9,177.50"
+125827,2987468,MILLER METCALFE,31/12/2013,48502,Legal Fees,Finance Department,Local Support Scheme,£550.00
+250404,2966992,MISS JANE WALKER#1,09/12/2013,48502,Legal Fees,Children's Services,Management Team,£500.00
+224788,2975815,MISS SOPHIE CARTWRIGHT,19/12/2013,48502,Legal Fees,Finance Department,H.B. Investigation Team,£600.00
+221647,2975776,MISS THERESA PEPPER,19/12/2013,48502,Legal Fees,Children's Services,Management Team,"£2,100.00"
+221647,2970314,MISS THERESA PEPPER,12/12/2013,48502,Legal Fees,Children's Services,Management Team,"£1,700.00"
+990728,2987336,MOORE ASSOCIATES LIMITED,30/12/2013,48509,Other Fees,Children's Services,Management Team,£716.70
+5353,2965832,MR KARL ROWLEY,09/12/2013,48502,Legal Fees,Children's Services,Management Team,"£5,050.00"
+199667,2972787,MR MARTIN CARTER,19/12/2013,48502,Legal Fees,Central Corporate,Land & Property Portfolios,"£6,500.00"
+89825,2987357,MR SIMON CRABTREE,30/12/2013,48502,Legal Fees,Children's Services,Management Team,"£1,680.00"
+1037742,2987338,MRS PRUDENCE BEEVER,30/12/2013,48502,Legal Fees,Children's Services,Management Team,£780.00
+1037742,2975803,MRS PRUDENCE BEEVER,19/12/2013,48502,Legal Fees,Children's Services,Management Team,"£1,100.00"
+1037742,2975800,MRS PRUDENCE BEEVER,19/12/2013,48502,Legal Fees,Children's Services,Management Team,£650.00
+1037742,2975781,MRS PRUDENCE BEEVER,19/12/2013,48502,Legal Fees,Children's Services,Management Team,"£2,500.00"
+204392,2975944,MTM PRESENTATIONS LTD,19/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,800.00"
+204392,2971473,MTM PRESENTATIONS LTD,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£5,000.00"
+204392,2971472,MTM PRESENTATIONS LTD,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£2,440.00"
+6500,2969804,MULTI MEDIA MACHINE#WEBWORKS ONLY,12/12/2013,48201,Property Advertising,Housing GRF,Homes for Bolton CBL,"£5,200.00"
+6504,2968954,NAS SERVICES LTD,12/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,£699.50
+9982,2972781,NATIONAL CAR PARKS LTD#NCP,19/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£123,871.40"
+9982,2966339,NATIONAL CAR PARKS LTD#NCP,09/12/2013,37100,Car Parking,Development & Regen,D&R Departmental Account,"£17,500.00"
+9982,2966336,NATIONAL CAR PARKS LTD#NCP,09/12/2013,37100,Car Parking,Development & Regen,D&R Departmental Account,"£31,578.00"
+9982,2986740,NATIONAL CAR PARKS LTD#NCP,30/12/2013,25105,Other Security,Environmental Services,NCP CCTV,"£7,000.00"
+1905310,2968641,NCER CIC,12/12/2013,47200,General Subscriptions,Children's Services,Admin Strategy&Performance,"£1,676.40"
+187,2971733,NEW HORIZONS (STOCKPORT) LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£11,400.00"
+187,2971739,NEW HORIZONS (STOCKPORT) LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£11,400.00"
+1237875,2972467,NEW START CHILDCARE,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£16,680.00"
+1237875,2971519,NEW START CHILDCARE,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£15,600.00"
+1237875,2969249,NEW START CHILDCARE,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£19,200.00"
+1237875,2969257,NEW START CHILDCARE,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£21,800.00"
+1237875,2965367,NEW START CHILDCARE,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,590.00"
+117865,2968671,NEWSQUEST (NORTH WEST) LTD,12/12/2013,48200,Advertising General,Environmental Services,Highway Management,£512.60
+117865,2967456,NEWSQUEST (NORTH WEST) LTD,09/12/2013,48200,Advertising General,Environmental Services,Highway Management,£977.90
+2265300,2969454,NEXT STAGE A WAY FORWARD LIMITED,12/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£1,644.34"
+2265300,2969080,NEXT STAGE A WAY FORWARD LIMITED,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£4,007.20"
+2265300,2969457,NEXT STAGE A WAY FORWARD LIMITED,12/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£15,347.20"
+2345292,2973114,NICHE COMMUNICATIONS LTD,19/12/2013,43001,Printing General,Public Health,Primary Care,"£1,125.00"
+254,2972362,NORTH WEST GRAPHICS,16/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,"£1,100.00"
+262,2965381,NORTHERNCARE#WHISTLEDAWN LTD,05/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£9,642.86"
+17346,2973488,NORTHGATE INFORMATION SOLUTIONS UK LIMITED,19/12/2013,48509,Other Fees,Housing GRF,Pinpoint CBL,"£9,500.00"
+1838318,2969551,NORTHGATE VEHICLE HIRE LTD,12/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£18,039.02"
+1838318,2981850,NORTHGATE VEHICLE HIRE LTD,30/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,"£17,437.13"
+1838318,2976043,NORTHGATE VEHICLE HIRE LTD,23/12/2013,36200,Uninsured Losses  Vehicles,Environmental Services,Transport Support Service,"£1,244.00"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Assets,"£6,158.88"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Community Centres  Little Lever,"£2,213.17"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Depots,"£2,270.50"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Heaton Fold,"£1,619.16"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Markets  Rent Account,"£5,110.54"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Development & Regen,The Leverhulme Centre,"£1,884.47"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Alexandra CC,"£1,543.60"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Brightmeadows CC,£594.10
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Disability Serv Avondale Street,£905.01
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Disability Serv Trackside Approach,£867.46
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Harvey CC,"£3,513.93"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Kearsley CC,£586.18
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Little Lever CC,£861.66
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Oldhams CC,£761.30
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Oxford Grove CC,"£6,030.59"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Res Serv 217 Deepdale Rd,£669.29
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Res Serv Mayor Street,£513.36
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Finance Department,Hall I'th Wood Museum,£720.20
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Finance Department,Libraries  High Street,"£1,347.01"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Finance Department,Libraries  Westhoughton,"£1,907.19"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Finance Department,Smithills Hall Museum,"£1,035.76"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Housing GRF,Access and Advice Housing Options Centre,£528.07
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Housing GRF,Dispersed Properties,"£1,409.93"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Housing GRF,Traveller Sites,"£3,766.44"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Alderbank EPH,"£1,931.90"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Crescent House,"£1,166.53"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Darley Court EPH,"£1,708.15"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Energy Payments Account,"£9,558.32"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Firwood EPH,"£4,756.25"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Jubilee Centre,"£1,581.98"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Laburnum Lodge EPH,£917.99
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Marsden Road(BASE),£758.32
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,New Lane 24,£596.35
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Thicketford Centre,"£1,148.65"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Wellsprings  BMBC,"£2,852.96"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Westhoughton Area Office,"£1,801.99"
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Wilfred Gere EPH,£543.59
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Winifred Kettle,£979.11
+10182,2977467,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Central Corporate,Land & Property Portfolios,"£4,369.17"
+10182,2966540,NPOWER LIMITED,09/12/2013,21200,Gas  General,Property Services,Brazley Centre,£669.83
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Bereavement Services,"£2,826.33"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Depots,"£2,627.03"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Markets  Rent Account,"£11,753.92"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Children's Services,Technical Innovation Centre,"£1,752.15"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Housing GRF,Benjamin Court Temporary Accommodation,"£1,272.35"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Castle Hill,"£8,217.82"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Howell Croft House  Le Mans Crescent,"£6,897.27"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Pocket Workshop(Community Meals),£834.14
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Property Services,Town Hall,"£27,850.98"
+10182,2976325,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Central Corporate,Land & Property Portfolios,"£1,993.89"
+10182,2976318,NPOWER LIMITED,23/12/2013,21100,Electricity  General,Environmental Services,Engineering Projects,"£234,048.57"
+266933,2963855,NSL LIMITED#NSL SERVICES GROUP,05/12/2013,44202,Contract UnitNonLEA,Environmental Services,Parking Services  On Street,"£3,858.17"
+266933,2963856,NSL LIMITED#NSL SERVICES GROUP,05/12/2013,44202,Contract UnitNonLEA,Environmental Services,Parking Services  On Street,"£42,029.00"
+266933,2973914,NSL LIMITED#NSL SERVICES GROUP,19/12/2013,44202,Contract UnitNonLEA,Environmental Services,Parking Services  On Street,"£3,858.17"
+266933,2967814,NSL LIMITED#NSL SERVICES GROUP,12/12/2013,44202,Contract UnitNonLEA,Environmental Services,Parking Services  On Street,"£39,149.15"
+266933,2973910,NSL LIMITED#NSL SERVICES GROUP,19/12/2013,44202,Contract UnitNonLEA,Environmental Services,Parking Services  On Street,"£39,913.88"
+266933,2963864,NSL LIMITED#NSL SERVICES GROUP,05/12/2013,44202,Contract UnitNonLEA,Environmental Services,Parking Services  On Street,"£4,898.98"
+62914,2976116,NUGENT CARE#BOLTON PROJECT,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Day Services,"£33,929.50"
+238617,2978492,NYMAS#NORTH YORKSHIRE MOBILITY & SAFETY,23/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£957.00
+153319,2971711,OCS GROUP UK LTD T/A CANNON,16/12/2013,26001,Hygiene Requisite,Children's Services,Westhoughton CC,£585.39
+413124,2972496,ONSIDE EDUCATION CONSULTANTS,16/12/2013,48509,Other Fees,Children's Services,CWPD Governors,£644.00
+413124,2972487,ONSIDE EDUCATION CONSULTANTS,16/12/2013,48509,Other Fees,Children's Services,CWPD Governors,£644.00
+125827,2985840,ORACLE UK CORPORATION,31/12/2013,45430,Computer Software,Finance Department,Corporate I.C.T.,"£2,428.80"
+2441353,2973071,OSMIS EDUCATION LIMITED,19/12/2013,53000,Private Contracted Services,Children's Services,Admin IT (Schools),"£5,700.00"
+2441353,2965537,OSMIS EDUCATION LIMITED,09/12/2013,53000,Private Contracted Services,Children's Services,Admin IT (Schools),"£4,400.00"
+2441353,2965536,OSMIS EDUCATION LIMITED,09/12/2013,53000,Private Contracted Services,Children's Services,Admin IT (Schools),"£5,700.00"
+2441353,2973072,OSMIS EDUCATION LIMITED,19/12/2013,53000,Private Contracted Services,Children's Services,Admin IT (Schools),"£5,300.00"
+125827,2985660,P&D DOMESTICS BOLTON,31/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,"£8,012.13"
+125827,2985663,P&D DOMESTICS BOLTON,31/12/2013,40150,Office Furniture Purchase,Housing GRF,Local Welfare Provision Pilot,"£8,249.25"
+388,2980516,PARALLEL PARENTS,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,809.20"
+388,2980518,PARALLEL PARENTS,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,890.80"
+2474460,2970384,PARENTMAIL#123COMMS LIMITED,12/12/2013,40107,Kitchen Equipment,Environmental Services,Catering,"£26,094.00"
+2474460,2968715,PARENTMAIL#123COMMS LIMITED,12/12/2013,40107,Kitchen Equipment,Environmental Services,Catering,"£13,051.00"
+34703,2978634,PARK HOUSE HEALTHCARE LTD,23/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£3,300.00"
+34703,2986691,PARK HOUSE HEALTHCARE LTD,30/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£4,514.00"
+50,2963621,PARKLANDS HOUSE NURSING HOME,03/12/2013,54302,Nursing Provision,Adult Services,MH Residential External Provision,"£11,900.00"
+1457062,2981473,REDACTED - PERSONAL DATA,30/12/2013,48509,Other Fees,Children's Services,Primary Commissioning,£985.00
+40476,2965616,PAWS FOR KIDS,05/12/2013,55700,Grant Funded Expenditure,Environmental Services,Community Safety,"£10,000.00"
+40476,2978641,PAWS FOR KIDS,23/12/2013,46004,Staff Training Courses,Environmental Services,Community Safety,£500.00
+2405397,2970382,PAYPOINT NETWORK LTD,12/12/2013,21100,Electricity  General,Finance Department,Local Support Scheme,"£1,383.00"
+2405397,2965962,PAYPOINT NETWORK LTD,09/12/2013,21100,Electricity  General,Finance Department,Local Support Scheme,"£1,024.00"
+2405397,2975337,PAYPOINT NETWORK LTD,19/12/2013,21100,Electricity  General,Finance Department,Local Support Scheme,"£1,559.00"
+2405397,2987356,PAYPOINT NETWORK LTD,30/12/2013,21100,Electricity  General,Finance Department,Local Support Scheme,"£1,482.00"
+6547,2971095,PEAK FABRICATIONS (BOLTON) LTD,16/12/2013,20501,Engineering Work,Environmental Services,Highway Services,"£1,220.00"
+6547,2963931,PEAK FABRICATIONS (BOLTON) LTD,05/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£2,204.00"
+6547,2963934,PEAK FABRICATIONS (BOLTON) LTD,05/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£11,000.00"
+6547,2964311,PEAK FABRICATIONS (BOLTON) LTD,09/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£1,670.00"
+451,2971081,PEARSON EDUCATION LIMITED,16/12/2013,40100,Operational Equipment Purchase,Children's Services,Education Psychology Service,£947.50
+125827,2985132,PEEKS THE EVENT MAKERS,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Albert Halls  Operations,"£1,216.62"
+111260,2971100,PERPETUAL FOSTERING LTD,16/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£3,702.78"
+1552735,2972460,PICK EVERARD,16/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£1,250.00"
+350350,2975841,PIPS COURIER SERVICES#REDACTED - PERSONAL DATA,19/12/2013,48509,Other Fees,Children's Services,Management Team,£705.00
+525,2973855,POST OFFICE LTD,19/12/2013,31300,Vehicle Tax,Environmental Services,Transport Support Service,"£2,945.00"
+547,2973642,PREFS LTD,19/12/2013,43032,Office Stationery,Children's Services,Business Support â€“ North District,"£2,105.00"
+35473,2985892,PREMIER CARE LTD#BOLTON CARE SERVICES,30/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£6,359.50"
+739608,2972488,PRISM MEDICAL UK,19/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£1,102.54"
+739608,2969488,PRISM MEDICAL UK,12/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£2,054.53"
+739608,2980658,PRISM MEDICAL UK,30/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£618.46
+596,2968384,PSI (RESOURCES) LTD,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£680.00
+644,2965956,R S TYRER LTD,09/12/2013,34405,Clients  Swimming Fares,Environmental Services,SNT Childrens Servs,"£6,839.00"
+644,2987399,R S TYRER LTD,30/12/2013,34405,Clients  Swimming Fares,Environmental Services,SNT Childrens Servs,"£3,826.00"
+1569294,2971805,RAISE THE YOUTH FOUNDATION LTD,16/12/2013,52200,Contracted Services,Children's Services,Youth Offending Team,"£1,072.50"
+1569294,2966935,RAISE THE YOUTH FOUNDATION LTD,09/12/2013,52200,Contracted Services,Children's Services,Youth Offending Team,"£1,072.50"
+125827,2982896,RALPH LIVESEY LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£556.37
+125827,2982315,RALPH LIVESEY LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£530.18
+125827,2982324,RALPH LIVESEY LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£510.84
+125827,2982919,RALPH LIVESEY LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£549.80
+1800291,2965888,RAPID PRIVATE HIRE LTD,09/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,£739.40
+1800291,2978801,RAPID PRIVATE HIRE LTD,23/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,£921.00
+1800291,2965884,RAPID PRIVATE HIRE LTD,09/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,£659.40
+1800291,2978799,RAPID PRIVATE HIRE LTD,23/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,£818.60
+2120301,2980415,REAL AND SMOOTH LIMITED,23/12/2013,48200,Advertising General,Environmental Services,Albert Halls Entertainment,"£3,000.00"
+7046,2966910,REDACTED - PERSONAL DATA,09/12/2013,54202,Family Placement (Daycare),Children's Services,Disability Serv Bolton Shared Care,£612.00
+2370297,2987454,REDACTED - PERSONAL DATA,30/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,"£1,050.00"
+2481312,2969828,REDACTED - PERSONAL DATA,19/12/2013,48526,Strategic Projects,Children's Services,Business Admin,"£1,314.95"
+2441321,2968762,REDACTED - PERSONAL DATA,12/12/2013,48509,Other Fees,Children's Services,Primary Commissioning,"£1,485.00"
+2441321,2976141,REDACTED - PERSONAL DATA,23/12/2013,48509,Other Fees,Children's Services,Primary Commissioning,"£1,485.00"
+2456301,2965738,REDACTED - PERSONAL DATA,09/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,"£1,800.00"
+2370292,2980706,REDACTED - PERSONAL DATA,30/12/2013,48509,Other Fees,Children's Services,Primary Commissioning,"£1,485.00"
+1576338,2971846,REDACTED - PERSONAL DATA,16/12/2013,48509,Other Fees,Children's Services,Outdoor Education,£526.88
+220899,2972313,REDACTED - PERSONAL DATA,16/12/2013,48509,Other Fees,Finance Department,Smithills Hall Museum,£500.00
+2284331,2978751,REDACTED - PERSONAL DATA,23/12/2013,48509,Other Fees,Public Health,Get Active,"£1,785.50"
+22999,2972780,REFUGE,19/12/2013,48629,Miscellaneous Expenses,Children's Services,Referral & Assmt Team South,£778.60
+6605,2980661,RELATE#GREATER MANCHESTER NORTH,30/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£3,738.25"
+7864,2973531,RELPHS FUNERAL SERVICE,19/12/2013,52300,Client Support Costs,Adult Services,"AD Finance, Income & Assess. Team","£1,400.00"
+2474465,2966312,REDACTED - PERSONAL DATA,09/12/2013,48204,Promoting Events,Children's Services,Gtr Manchester Music Education Hub,£500.00
+2338340,2975952,RICHARD PRICE,23/12/2013,48509,Other Fees,Central Services,Legal Services Client,"£1,250.00"
+2494291,2987506,REDACTED - PERSONAL DATA,30/12/2013,46004,Staff Training Courses,Adult Services,Drugs Pooled Treatment Budget,"£6,736.60"
+6612,2976184,RIGBY TAYLOR LTD,23/12/2013,40601,General Materials,Environmental Services,Activities and Operations,£960.00
+6612,2973862,RIGBY TAYLOR LTD,19/12/2013,40601,General Materials,Environmental Services,Activities and Operations,£570.00
+6619,2963748,ROBINSON PLANT HIRE,05/12/2013,33202,Plant Hire,Environmental Services,Activities and Operations,£661.78
+6619,2968987,ROBINSON PLANT HIRE,12/12/2013,33202,Plant Hire,Environmental Services,Activities and Operations,£661.78
+6619,2969831,ROBINSON PLANT HIRE,12/12/2013,33202,Plant Hire,Environmental Services,Activities and Operations,£661.78
+6619,2976056,ROBINSON PLANT HIRE,23/12/2013,33202,Plant Hire,Environmental Services,Activities and Operations,£661.78
+255491,2973527,ROGER HILLMAN,19/12/2013,48502,Legal Fees,Adult Services,ACM  Management,"£1,332.00"
+255491,2975949,ROGER HILLMAN,23/12/2013,48502,Legal Fees,Adult Services,ACM  Management,"£1,079.00"
+2318301,2969474,REDACTED - PERSONAL DATA,12/12/2013,48509,Other Fees,Public Health,Think Positive,"£1,280.00"
+2333314,2987410,ROSIE NIGHTINGALE HOME CARE,30/12/2013,19100,Training Exps Tuition Fees,Adult Services,Staff Development  Childrens,"£1,410.00"
+162251,2964345,ROWLANDS PHARMACY,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£501.30
+162251,2966962,ROWLANDS PHARMACY,09/12/2013,52200,Contracted Services,Public Health,Smoking,"£1,596.77"
+162251,2975774,ROWLANDS PHARMACY,19/12/2013,52200,Contracted Services,Public Health,Primary Care,"£1,640.75"
+162251,2964341,ROWLANDS PHARMACY,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£510.60
+125827,2981883,ROYAL MAIL,31/12/2013,43032,Office Stationery,Finance Department,Council Tax,£500.00
+6629,2974175,ROYAL MAIL GROUP LTD,19/12/2013,45000,Postages Direct Costs,Finance Department,Council Tax,£973.86
+6629,2974175,ROYAL MAIL GROUP LTD,19/12/2013,45000,Postages Direct Costs,Finance Department,Housing Benefits,£905.23
+6629,2967838,ROYAL MAIL GROUP LTD,12/12/2013,45000,Postages Direct Costs,Finance Department,Council Tax,"£1,515.15"
+6629,2967838,ROYAL MAIL GROUP LTD,12/12/2013,45000,Postages Direct Costs,Finance Department,Housing Benefits,"£1,132.32"
+6629,2964438,ROYAL MAIL GROUP LTD,05/12/2013,45000,Postages Direct Costs,Finance Department,Accounts Receivable (R & B),"£1,066.08"
+6629,2964438,ROYAL MAIL GROUP LTD,05/12/2013,45000,Postages Direct Costs,Finance Department,Council Tax,£912.60
+6629,2964438,ROYAL MAIL GROUP LTD,05/12/2013,45000,Postages Direct Costs,Finance Department,Housing Benefits,£798.08
+6629,2971647,ROYAL MAIL GROUP LTD,16/12/2013,45000,Postages Direct Costs,Finance Department,Council Tax,"£1,672.19"
+6629,2971647,ROYAL MAIL GROUP LTD,16/12/2013,45000,Postages Direct Costs,Finance Department,Housing Benefits,£997.71
+65880,2971749,ROYAL MENCAP SOCIETY#MENCAP,16/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,£754.65
+1559,2975960,RTC SAFETY SURFACES LTD,19/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£7,437.00"
+36921,2987430,S & D PRIVATE HIRE#S & D CARS,30/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,"£1,512.00"
+2205290,2966377,SAFEHANDS CARE LTD#SAFEHANDS GROUP,09/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£9,188.47"
+1637,2968878,SAFETY KLEEN UK  LTD,12/12/2013,40601,General Materials,Environmental Services,Transport Support Service,£642.16
+1637,2980561,SAFETY KLEEN UK  LTD,23/12/2013,40601,General Materials,Environmental Services,Transport Support Service,£642.16
+73074,2967864,SARABEC LIMITED,12/12/2013,44051,Clients Aids & Adaptations,Adult Services,ASC External Funded Schemes,£685.80
+73074,2967870,SARABEC LIMITED,12/12/2013,44051,Clients Aids & Adaptations,Adult Services,ASC External Funded Schemes,£643.40
+17738,2975798,SARAH KILVINGTON,19/12/2013,48502,Legal Fees,Children's Services,Management Team,£950.00
+21091,2981792,SAVILLE AUDIO VISUAL,30/12/2013,48629,Miscellaneous Expenses,Chief Executives Department,Vision for the Future,"£1,592.45"
+1700,2973631,SCAN INTERNATIONAL,19/12/2013,40610,Direct Materials,Environmental Services,Highway Services,£540.07
+149627,2975904,SECTOR TREASURY SERVICES LTD,19/12/2013,48509,Other Fees,Financial Services,Debt Management Account,"£15,000.00"
+2323,2965908,SERCO LEISURE OPERATING LTD#2,09/12/2013,52200,Contracted Services,Development & Regen,The Leisure Trust,"£3,814.67"
+2323,2972538,SERCO LEISURE OPERATING LTD#2,19/12/2013,52200,Contracted Services,Development & Regen,The Leisure Trust,"£2,166.67"
+2323,2969487,SERCO LEISURE OPERATING LTD#2,12/12/2013,52200,Contracted Services,Development & Regen,The Leisure Trust,"£5,487.28"
+2323,2986795,SERCO LEISURE OPERATING LTD#2,30/12/2013,40101,Operational Equipment Maint,Development & Regen,The Leisure Trust,"£2,082.65"
+2323,2972539,SERCO LEISURE OPERATING LTD#2,19/12/2013,52200,Contracted Services,Development & Regen,The Leverhulme Centre,"£1,822.04"
+36812,2971721,SERVICOM (HIGH TECH) LTD,16/12/2013,25105,Other Security,Development & Regen,TC Leadership Board Projects,£511.80
+6656,2967349,SEVA LINE,09/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£6,541.26"
+2206624,2971644,SGH MARTINEAU LLP,16/12/2013,48502,Legal Fees,Finance Department,NonDomestic Rating,"£12,445.00"
+1683291,2975945,SHAKE RATTLE AND ROLL,19/12/2013,48517,Fees/Expenses Schools,Children's Services,Music ServMusic Service general,£987.50
+22797,2968703,SHANLEYS LTD,12/12/2013,48203,Marketing,Central Services,Marketing  General,£512.00
+22797,2968708,SHANLEYS LTD,12/12/2013,48203,Marketing,Central Services,Marketing  General,£732.00
+183989,2967375,SHANTI MEDI-CARE LTD,09/12/2013,52200,Contracted Services,Public Health,Smoking,£595.81
+152595,2978733,SHARED CARE#MAPLE LEAF CARE LIMITED,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£9,150.00"
+1556158,2975957,SHARP ASPHALT CO LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,100.00"
+142271,2963623,SHAWCROSS CARE HOME#TAMENG CARE LTD,03/12/2013,54301,Residential Provision,Adult Services,OA  External Provision Residential,"£1,460.00"
+47314,2965704,SHOWSEC INTERNATIONAL LIMITED,09/12/2013,48203,Marketing,Central Services,Marketing  General,"£6,658.56"
+47314,2971116,SHOWSEC INTERNATIONAL LIMITED,16/12/2013,25105,Other Security,Central Services,Mayoralty,£551.30
+1822,2974266,SIDHIL LIMITED,19/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£5,710.00"
+1822,2974269,SIDHIL LIMITED,19/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£3,015.00"
+203373,2966913,SIGNHEALTH,09/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,£834.17
+47832,2968860,SILK GROUP LTD,12/12/2013,43001,Printing General,Children's Services,Connexions PAs,£500.00
+47832,2971909,SILK GROUP LTD,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,175.00"
+47832,2975911,SILK GROUP LTD,19/12/2013,43032,Office Stationery,Environmental Services,Civil Contingencies,£720.00
+1097786,2963853,SIMPLYMED LTD,05/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£1,144.75"
+1097786,2978521,SIMPLYMED LTD,23/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£1,143.75"
+1097786,2972770,SIMPLYMED LTD,19/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,£768.75
+1097786,2972773,SIMPLYMED LTD,19/12/2013,44051,Clients Aids & Adaptations,Adult Services,ICES,"£1,072.50"
+1735290,2966902,SLC GROUP#PARAGON LIMITED,09/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£1,470.00"
+1735290,2972774,SLC GROUP#PARAGON LIMITED,19/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£1,029.60"
+1735290,2966906,SLC GROUP#PARAGON LIMITED,09/12/2013,52200,Contracted Services,Adult Services,MH Residential External Provision,"£1,193.64"
+42381,2972497,SMITH OF DERBY LTD,16/12/2013,20101,Programmed Maint. Work,Property Services,Town Hall,£518.00
+1862,2967537,SMITHS MARQUEES,12/12/2013,48204,Promoting Events,Environmental Services,Civil Contingencies,"£1,624.00"
+152873,2974015,SOCIAL CENTRE FOR THE BLIND#FACTOR BOLTON SOCIETY FOR BLIND PEOPLE,19/12/2013,52200,Contracted Services,Adult Services,Independent,"£2,050.00"
+2439310,2970394,SOLOGICAL SOLUTIONS,12/12/2013,19104,Training Exp  Ext Seminars,Development & Regen,Spatial Data  from GIS,£500.00
+16692,2971656,SOLON SECURITY LTD,16/12/2013,40100,Operational Equipment Purchase,Environmental Services,Community Safety,"£5,245.00"
+16692,2970399,SOLON SECURITY LTD,12/12/2013,40100,Operational Equipment Purchase,Environmental Services,Community Safety,"£2,792.86"
+16692,2970399,SOLON SECURITY LTD,12/12/2013,40100,Operational Equipment Purchase,Environmental Services,Neighbourhood Management Programme,"£2,628.57"
+16692,2970399,SOLON SECURITY LTD,12/12/2013,48509,Other Fees,Environmental Services,Neighbourhood Management Programme,"£2,628.57"
+6672,2975634,SOUTHERNS OFFICE INTERIORS LTD,30/12/2013,40101,Operational Equipment Maint,Children's Services,Admin IT (Schools),£566.30
+6673,2973440,SOUTHLANDS RESIDENTIAL HOME#SOUTHLANDS,19/12/2013,54301,Residential Provision,Adult Services,OA  External Provision Residential,"£5,021.25"
+6675,2972596,SPECTRA SECURITY LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£2,968.00"
+6675,2976171,SPECTRA SECURITY LTD,23/12/2013,20100,Day To Day Maintenance,Property Services,Accomm Rationalisation Strategy,"£1,978.00"
+6675,2976175,SPECTRA SECURITY LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£2,140.00"
+6675,2968940,SPECTRA SECURITY LTD,12/12/2013,Z1051,Work in Progress Additions,Property Services,Property Services Balance Sheet,"£4,073.00"
+2462370,2978711,SR SUPPLY CHAIN CONSULTANTS,23/12/2013,19104,Training Exp  Ext Seminars,Environmental Services,Catering,"£1,692.00"
+2446319,2968427,ST BEDE SERVICES LTD#BABY BEDE NURSERY,12/12/2013,48509,Other Fees,Children's Services,Children and Family Supp Svs South,£782.88
+6682,2966517,ST VINCENTS HOUSING ASSOCIATION LTD,09/12/2013,52210,Contracted Services  Rental Voids,Adult Services,LD Purchaser Supported Housing,£646.56
+6682,2968652,ST VINCENTS HOUSING ASSOCIATION LTD,12/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£9,909.16"
+6682,2966513,ST VINCENTS HOUSING ASSOCIATION LTD,09/12/2013,52210,Contracted Services  Rental Voids,Adult Services,LD Purchaser Supported Housing,£676.16
+248955,2971475,STAGE ELECTRICS PARTNERSHIP LTD,16/12/2013,48203,Marketing,Central Services,Marketing  General,"£2,100.00"
+248955,2976149,STAGE ELECTRICS PARTNERSHIP LTD,23/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,000.00"
+2370349,2969512,STEP AHEAD RESOURCE SERVICES LTD,12/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+2370349,2973128,STEP AHEAD RESOURCE SERVICES LTD,19/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+2370349,2966366,STEP AHEAD RESOURCE SERVICES LTD,09/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£850.00
+2370349,2966369,STEP AHEAD RESOURCE SERVICES LTD,09/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£1,000.00"
+2370349,2981088,STEP AHEAD RESOURCE SERVICES LTD,30/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£880.00
+66472,2987365,STONHAM,30/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£35,901.37"
+2013331,2974298,SUPAMIX MINI MIX,19/12/2013,40610,Direct Materials,Environmental Services,Highways Maintenance Billable Costs,"£1,953.00"
+1966295,2980479,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£13,619.80"
+1966296,2980480,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£19,116.70"
+1967294,2981067,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£17,008.40"
+1967295,2981068,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£12,606.20"
+1966292,2980481,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£8,850.80"
+1967301,2981069,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£6,755.58"
+1847290,2980508,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£6,742.40"
+2335296,2981070,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£11,461.38"
+2335290,2980482,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£17,544.90"
+1967297,2981071,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£6,787.20"
+1967300,2981072,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£17,818.00"
+1967296,2981073,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£12,682.10"
+1967299,2981074,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£11,442.40"
+1967291,2981075,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£3,953.60"
+1967293,2981076,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£11,746.00"
+1967292,2981077,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£6,433.00"
+2335291,2980483,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£11,203.93"
+1966294,2980484,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,PD Purchaser Supported Housing,"£15,025.40"
+2335292,2980485,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£10,915.28"
+1967290,2980486,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£6,039.60"
+1967298,2981081,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£7,267.54"
+1967298,2981080,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£8,001.60"
+1966290,2980488,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£8,857.08"
+2335299,2981082,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£12,454.40"
+2335300,2981083,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£11,221.03"
+2335294,2980489,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£7,344.80"
+1966293,2980491,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£8,298.60"
+1966291,2980492,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£13,353.20"
+2335295,2980493,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,23/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£7,445.20"
+2335301,2981084,SUPPORTED HOUSING FOR REDACTED - PERSONAL DATA#LIFEWAYS,30/12/2013,52200,Contracted Services,Adult Services,LD Purchaser Supported Housing,"£11,796.60"
+105150,2969511,SX ENVIRONMENTAL SUPPLIES LTD,16/12/2013,40605,Chemicals,Environmental Services,Activities and Operations,£800.83
+41646,2963835,SYKES CHEMIST LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£1,214.20"
+41646,2963840,SYKES CHEMIST LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£2,408.60"
+41646,2963918,SYKES CHEMIST LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,"£1,221.20"
+41646,2963831,SYKES CHEMIST LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£979.00
+16299,2978410,SYMOLOGY LTD,23/12/2013,48509,Other Fees,Environmental Services,Highway Regulation & Inspection,£860.00
+1576391,2969736,SYMPHONY HOUSING GROUP,12/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£3,678.15"
+1576391,2969739,SYMPHONY HOUSING GROUP,12/12/2013,52200,Contracted Services,Adult Services,Supporting People  Capital Financing,"£7,876.52"
+251543,2971477,T LOWE & SON LIMITED,16/12/2013,20100,Day To Day Maintenance,Central Corporate,Land & Property Portfolios,"£2,408.85"
+251543,2969899,T LOWE & SON LIMITED,12/12/2013,20100,Day To Day Maintenance,Environmental Services,Assets,"£1,161.50"
+251543,2975827,T LOWE & SON LIMITED,19/12/2013,20100,Day To Day Maintenance,Environmental Services,Assets,£557.10
+21985,2970933,TAYLOR BROS (TREES),16/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£2,000.00"
+21985,2967747,TAYLOR BROS (TREES),23/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£10,500.00"
+2345,2966963,TEAM-TEACH LTD,09/12/2013,48630,NonStaff Training,Children's Services,Disability Serv Family Support Team,"£2,880.00"
+932,2970397,TECHNOLOGY SOLUTIONS LIMITED,12/12/2013,25106,C.C.T.V.,Environmental Services,Security Services,"£11,766.00"
+2222349,2976096,TECHNOPRINT,23/12/2013,48200,Advertising General,Environmental Services,Albert Halls Entertainment,"£1,622.70"
+6706,2968379,TELECARS BOLTON,12/12/2013,34402,Clients  Taxi Fares,Children's Services,Contact & Direct Work,"£1,156.60"
+6706,2987395,TELECARS BOLTON,30/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,"£1,260.75"
+6706,2971437,TELECARS BOLTON,16/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,"£1,893.00"
+6706,2978797,TELECARS BOLTON,23/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,"£1,587.50"
+6706,2963576,TELECARS BOLTON,05/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,"£1,587.50"
+443485,2986749,TENNANT UK CLEANING SOLUTIONS LTD,30/12/2013,31100,Vehicle Purchase,Environmental Services,Activities and Operations,"£15,860.03"
+945,2966546,TERBERG MATEC UK,09/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£524.21
+100298,2977576,TFP THE FINISHING POINT LTD,23/12/2013,40141,Office Equipment Maintenance,Central Services,Text & Reprographics,"£2,080.00"
+2327291,2978994,THE CHURCHES CONSERVATION TRUST,23/12/2013,Z1051,Work in Progress Additions,Finance Department,Finance Balance Sheet,"£100,000.00"
+88184,2981832,THE COLUMBARIA COMPANY,30/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£690.00
+88184,2980765,THE COLUMBARIA COMPANY,30/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£565.00
+88184,2965606,THE COLUMBARIA COMPANY,05/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,"£1,137.00"
+88184,2965607,THE COLUMBARIA COMPANY,05/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£575.50
+88184,2981834,THE COLUMBARIA COMPANY,30/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£775.00
+88184,2980769,THE COLUMBARIA COMPANY,30/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£820.00
+88184,2980770,THE COLUMBARIA COMPANY,30/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£795.00
+88184,2980772,THE COLUMBARIA COMPANY,30/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,£810.00
+88184,2969553,THE COLUMBARIA COMPANY,12/12/2013,40610,Direct Materials,Environmental Services,Bereavement Services,"£1,061.50"
+125827,2982823,THE GOOD FOOD CHAIN LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,"£1,053.71"
+125827,2982795,THE GOOD FOOD CHAIN LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£971.74
+125827,2982810,THE GOOD FOOD CHAIN LTD,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,"£1,018.07"
+1603302,2973246,THE GREATER MANCHESTER COMBINED AUTHORITY,19/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£4,131.21"
+1858290,2972450,THE LAS GROUP#ASHLEY RAMSDEN,16/12/2013,20100,Day To Day Maintenance,Children's Services,Res Serv Malton Avenue,"£12,217.66"
+88171,2978792,THE LEAVING CARE TEAM,23/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,"£1,696.14"
+88171,2965825,THE LEAVING CARE TEAM,09/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,£965.71
+88171,2971372,THE LEAVING CARE TEAM,16/12/2013,52300,Client Support Costs,Children's Services,Child Prot Leaving Care Team,"£1,957.52"
+45009,2972498,THE LESBIAN & GAY FOUNDATION,16/12/2013,44054,Other Clients Services,Public Health,HIV,"£1,798.00"
+45009,2985304,THE LESBIAN & GAY FOUNDATION,30/12/2013,52200,Contracted Services,Public Health,HIV,"£1,798.00"
+207974,2965736,THE LOCAL CARE COMPANY (BOLTON) LTD,09/12/2013,52200,Contracted Services,Adult Services,OA  Home Care Services external provision,"£30,818.96"
+995,2980390,THE NATIONAL FOSTERING AGENCY,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,892.00"
+995,2980387,THE NATIONAL FOSTERING AGENCY,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,187.91"
+995,2980383,THE NATIONAL FOSTERING AGENCY,23/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£1,799.91"
+151938,2973882,THE NEWPORT PHARMACY LIMITED,19/12/2013,52200,Contracted Services,Public Health,Smoking,£976.13
+301,2980664,THE OCTAGON,30/12/2013,47103,Miscellaneous Grants,Chief Executives Department,Voluntary Sector Grants,"£31,242.96"
+301,2970970,THE OCTAGON,16/12/2013,48205,Promoting Bolton,Development & Regen,Project Revenue Account,"£1,700.00"
+94614,2971575,THE OFFICE OF THE IMMIGRATION SERVICES COMMISSIONER,16/12/2013,48629,Miscellaneous Expenses,Central Services,Citizenship Ceremonies,£575.00
+1054,2980728,THE SYCAMORE PROJECT#ZACS BAR,30/12/2013,52200,Contracted Services,Children's Services,Admin Commissioning,"£21,300.00"
+147268,2985858,THE WRIGHT FOUNDATION,30/12/2013,19100,Training Exps Tuition Fees,Public Health,Get Active,£595.00
+78749,2986772,THE YOUTH JUSTICE BOARD,30/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,£942.00
+78749,2986770,THE YOUTH JUSTICE BOARD,30/12/2013,52000,Vol Assoc Grants  General,Children's Services,Res Serv Agency Placements,"£2,512.00"
+158742,2982751,THEBIGWORD#THE BIG WORD#THEBIGWORD INTERPRETING SERVICES LTD,30/12/2013,44054,Other Clients Services,Finance Department,C.R.M. Operations,"£2,074.04"
+125827,2982068,THOMAS HARDIE COMMERCIALS,31/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,£814.81
+125827,2981966,THOMAS HARDIE COMMERCIALS,31/12/2013,31305,Vehicle Servicing,Environmental Services,Transport Support Service,£726.58
+125827,2982051,THOMAS HARDIE COMMERCIALS,31/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£526.57
+125827,2982009,THOMAS HARDIE COMMERCIALS,31/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,"£2,472.58"
+125827,2982008,THOMAS HARDIE COMMERCIALS,31/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,"£3,176.35"
+125827,2981964,THOMAS HARDIE COMMERCIALS,31/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,"£2,671.45"
+125827,2981965,THOMAS HARDIE COMMERCIALS,31/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£817.73
+1684291,2970979,TICKETSOLVE LTD,16/12/2013,48509,Other Fees,Environmental Services,Albert Halls Entertainment,£999.20
+1684291,2970978,TICKETSOLVE LTD,16/12/2013,48509,Other Fees,Environmental Services,Albert Halls Entertainment,£683.20
+1684291,2980412,TICKETSOLVE LTD,23/12/2013,48509,Other Fees,Environmental Services,Albert Halls Entertainment,"£2,403.20"
+6700,2968750,TJS HIRE CO (HUMBERSIDE) LTD#TJD SELF DRIVE BOLTON,12/12/2013,33201,Transport Hire,Environmental Services,Transport Support Service,£565.38
+461491,2967680,TOM FORREST LTD,12/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,"£3,252.80"
+461491,2967395,TOM FORREST LTD,09/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,"£4,000.00"
+2211451,2980351,TOUCHSTONE MEDIA GROUP,23/12/2013,48501,Artistes Fees,Environmental Services,Albert Halls Entertainment,"£7,536.66"
+1166814,2981867,TRAKM8 LIMITED,30/12/2013,45409,Information and Communication Technology,Environmental Services,Transport Support Service,"£2,583.90"
+1548572,2967762,TRANSPORT FOR GREATER MANCHESTER,12/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,£525.00
+1548572,2971123,TRANSPORT FOR GREATER MANCHESTER,16/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£22,434.00"
+1548572,2968879,TRANSPORT FOR GREATER MANCHESTER,12/12/2013,48509,Other Fees,Development & Regen,Development Management,£800.13
+1548572,2964476,TRANSPORT FOR GREATER MANCHESTER,05/12/2013,40102,Operational Equipment Rental,Development & Regen,Metro Shuttle Bus,"£9,120.00"
+1548572,2971523,TRANSPORT FOR GREATER MANCHESTER,16/12/2013,34403,Clients  Bus Passes,Children's Services,School Transport to Bus Passes,"£78,326.40"
+91546,2972817,TRAPEZE GROUP (UK) LTD,19/12/2013,45431,Computer Software Licences,Environmental Services,Transport Support Service,"£5,797.84"
+129870,2973610,TREESCAPE NORTH WEST LTD,19/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,£620.00
+129870,2973611,TREESCAPE NORTH WEST LTD,19/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£1,240.00"
+129870,2967551,TREESCAPE NORTH WEST LTD,12/12/2013,52200,Contracted Services,Environmental Services,Activities and Operations,"£2,600.00"
+2410290,2966634,TREKA BUS LIMITED,09/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£63,893.31"
+2410290,2966619,TREKA BUS LIMITED,09/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£63,893.31"
+2410290,2966613,TREKA BUS LIMITED,09/12/2013,Z1051,Work in Progress Additions,Environmental Services,Environmental Services Balance sheet,"£63,893.31"
+2467342,2969051,TRINITY MIRROR PUBLISHING LTD,12/12/2013,48203,Marketing,Central Services,Marketing  General,£780.00
+2467342,2969062,TRINITY MIRROR PUBLISHING LTD,12/12/2013,48203,Marketing,Central Services,Marketing  General,£980.00
+2333310,2987392,TRIPLE ZERO PRIVATE HIRE,30/12/2013,34402,Clients  Taxi Fares,Environmental Services,SNT Childrens Servs,£530.00
+16416,2967784,TRUCK TRAINING UK LTD,23/12/2013,19100,Training Exps Tuition Fees,Environmental Services,Activities and Operations,"£1,395.00"
+2109316,2986806,TUBE UK LIMITED,30/12/2013,40102,Operational Equipment Rental,Environmental Services,Activities and Operations,£950.00
+1581918,2967851,TUDOR NORTHWEST LTD,23/12/2013,Z5608,Inv Invoice Price Variance,Property Services,EAM Holding,£624.87
+1581918,2967851,TUDOR NORTHWEST LTD,23/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£698.25
+1581918,2973580,TUDOR NORTHWEST LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£11,148.50"
+1581918,2971639,TUDOR NORTHWEST LTD,16/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£776.76
+1581918,2972797,TUDOR NORTHWEST LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£671.86
+1581918,2974004,TUDOR NORTHWEST LTD,19/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£570.00
+1184,2970971,TURNER & WRIGHTS LIMITED,16/12/2013,41101,Catering ProvisionsFood,Environmental Services,Albert Halls  Operations,"£1,074.03"
+1185,2986704,TURNING POINT (SERVICES) LIMITED,30/12/2013,54301,Residential Provision,Adult Services,Drugs Pooled Treatment Budget,"£3,835.00"
+1185,2986703,TURNING POINT (SERVICES) LIMITED,30/12/2013,54301,Residential Provision,Adult Services,Drugs Pooled Treatment Budget,"£1,855.00"
+1185,2986706,TURNING POINT (SERVICES) LIMITED,30/12/2013,54301,Residential Provision,Adult Services,Drugs Pooled Treatment Budget,"£2,015.00"
+1185,2969925,TURNING POINT (SERVICES) LIMITED,12/12/2013,54301,Residential Provision,Adult Services,Drugs Pooled Treatment Budget,"£1,855.00"
+159735,2973486,TWM TRAFFIC CONTROL SYSTEMS LTD,19/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£2,710.00"
+159735,2973483,TWM TRAFFIC CONTROL SYSTEMS LTD,19/12/2013,48509,Other Fees,Environmental Services,Highway Management,"£3,460.00"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Environmental Services,Assets,"£9,837.57"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Environmental Services,Bereavement Services,£769.35
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Environmental Services,Depots,"£9,088.34"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Environmental Services,Mngmnt & Admin Overhead,£753.67
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Development & Regen,The Leverhulme Centre,"£1,778.98"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Children's Services,Disability Serv Avondale Street,"£1,130.77"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Housing GRF,Traveller Sites,£541.18
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Property Services,Falcon View SEC,£948.88
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Property Services,Firwood EPH,£824.30
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Property Services,Jubilee Centre,"£3,217.06"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Property Services,Laburnum Lodge EPH,"£1,955.95"
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Property Services,Merehall View,£574.11
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Central Corporate,Land & Property Portfolios,£550.58
+2418,2970492,UNITED UTILITIES WATER PLC#1,16/12/2013,22200,Water Charges  Metered,Central Corporate,Wolfenden Community Centre,"£1,553.70"
+2418,2970496,UNITED UTILITIES WATER PLC#1,16/12/2013,22201,Water Charges  Unmetered,Property Services,Energy Payments Account,£966.31
+1216,2966471,UNIVERSAL BODY REPAIRS LTD,09/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£551.00
+150827,2972444,URBAN VISION PARTNERSHIP LTD#GMGU,16/12/2013,53100,Agency Staff  Fulltime,Property Services,Estates & Property Management,"£6,874.23"
+150827,2968764,URBAN VISION PARTNERSHIP LTD#GMGU,12/12/2013,48509,Other Fees,Development & Regen,Divisional Development,"£2,024.00"
+6749,2986769,VAISALA LTD,30/12/2013,20501,Engineering Work,Environmental Services,Highway Services,£770.07
+155061,2970355,VEOLIA ES (UK) LTD#C&C RECYCLING IS A SUBSIDIARY,23/12/2013,40100,Operational Equipment Purchase,Environmental Services,Security Services,"£2,500.00"
+7915,2972452,W & S C JOBSON,16/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£673.08
+7915,2966485,W & S C JOBSON,09/12/2013,52200,Contracted Services,Environmental Services,Transport Support Service,£676.33
+423333,2968925,W CRAVEN & SON,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£566.20
+423333,2968929,W CRAVEN & SON,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£599.50
+423333,2968941,W CRAVEN & SON,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,"£1,417.00"
+423333,2968904,W CRAVEN & SON,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£652.80
+423333,2968918,W CRAVEN & SON,12/12/2013,Z6008,Expense AP Accrual,Bolton MBC Balance Sheet,Bolton MBC Balance Sheet,£728.96
+6758,2978770,WALTER CAREFOOT & SONS CONSTRUCTION,23/12/2013,20100,Day To Day Maintenance,Property Services,Accomm Rationalisation Strategy,"£178,569.01"
+151046,2968765,WALTONS THE CATERERS,12/12/2013,41101,Catering ProvisionsFood,Children's Services,Technical Innovation Centre,"£1,127.35"
+151046,2965808,WALTONS THE CATERERS,09/12/2013,41101,Catering ProvisionsFood,Public Health,Healthy Communities Team,"£1,215.00"
+168831,2970936,WATTS GROUP PLC,16/12/2013,Z1051,Work in Progress Additions,Property Services,Property Services Balance Sheet,£807.50
+23929,2972796,WDM LTD,19/12/2013,Z1051,Work in Progress Additions,Highways Partnership,Stores,"£1,000.00"
+1603366,2964487,WH LEISURE LIMITED,05/12/2013,40100,Operational Equipment Purchase,Environmental Services,Albert Halls  Operations,"£1,726.00"
+50111,2964318,WHITTLE PHARMACIES LTD,05/12/2013,52200,Contracted Services,Adult Services,Drugs Pooled Treatment Budget,£671.60
+1434057,2967992,WIGAN PIER PROMOTIONS,12/12/2013,48203,Marketing,Central Services,Marketing  General,"£1,946.25"
+66705,2968640,WILKINSON COWAN PARTNERSHIP,12/12/2013,Z1051,Work in Progress Additions,Property Services,Property Services Balance Sheet,"£1,606.32"
+66705,2968637,WILKINSON COWAN PARTNERSHIP,12/12/2013,Z1051,Work in Progress Additions,Property Services,Corporate Property Capital Project Transfers to Other Projects,£629.28
+66705,2968645,WILKINSON COWAN PARTNERSHIP,12/12/2013,Z1051,Work in Progress Additions,Property Services,Property Services Balance Sheet,£616.57
+2282300,2981852,WILLMOTT DIXON CONSTRUCTION LIMITED,30/12/2013,45408,Modems and Lines,Development & Regen,Project Revenue Account,"£23,994.15"
+2282300,2972793,WILLMOTT DIXON CONSTRUCTION LIMITED,19/12/2013,Z1051,Work in Progress Additions,Property Services,Corporate Property Capital Project Transfers to Other Projects,"£526,154.19"
+1548544,2971080,WLG LIMITED#WILDS OF OLDHAM,16/12/2013,41106,Bar Stock,Environmental Services,Civic Catering  Town Hall Bar,£742.49
+1548544,2971083,WLG LIMITED#WILDS OF OLDHAM,16/12/2013,41106,Bar Stock,Environmental Services,Civic Catering  Town Hall Bar,£995.70
+1548544,2967809,WLG LIMITED#WILDS OF OLDHAM,12/12/2013,41106,Bar Stock,Environmental Services,Civic Catering  Town Hall Bar,£714.26
+2789,2965958,WOLTERS KLUWER (UK) LTD,09/12/2013,40703,Other Publications,Environmental Services,SNT Other,£689.48
+150768,2971441,WOODLANDS LANDSCAPES#2,16/12/2013,48509,Other Fees,Children's Services,Targeted Youth Support,"£2,220.00"
+42691,2971670,WTP PYROTECHNICS,16/12/2013,46203,Civic Hospitality,Central Services,Mayoralty,"£1,075.00"
+1428,2971539,XEROX (UK) LTD,16/12/2013,43030,Photocopying Lease/Maintenance,Chief Executives Department,MFD,"£35,313.66"
+125827,2985508,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,40601,General Materials,Adult Services,OA  Laburnum Lodge  Residential,£850.80
+125827,2982318,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£598.24
+125827,2982327,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£712.14
+125827,2982843,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,"£1,078.72"
+125827,2982346,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£752.64
+125827,2982651,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£507.58
+125827,2982338,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£760.15
+125827,2982921,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£705.90
+125827,2982832,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£684.04
+125827,2982931,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£802.75
+125827,2982805,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£520.82
+125827,2984348,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£523.39
+125827,2984361,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£511.46
+125827,2982818,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£693.59
+125827,2982711,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£673.12
+125827,2982696,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£627.25
+125827,2982735,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£655.90
+125827,2982724,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Catering,£781.71
+125827,2985314,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Community Meals,£598.73
+125827,2985295,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Environmental Services,Community Meals,£717.93
+7865,2989126,YORKSHIRE PURCHASING ORGANISATION,31/12/2013,41101,Catering ProvisionsFood,Adult Services,OA  Darley Court Intermediate Care,£665.22
+7865,2969616,YORKSHIRE PURCHASING ORGANISATION,23/12/2013,43032,Office Stationery,Children's Services,Disability Serv Trackside Approach,£611.85
+7865,2969612,YORKSHIRE PURCHASING ORGANISATION,23/12/2013,41101,Catering ProvisionsFood,Adult Services,Adult Disabilities Day Services  Jubilee Centre,£846.37
+2311290,2965144,YPS PSYCHOLOGY LTD,05/12/2013,48509,Other Fees,Children's Services,Education Psychology Service,"£1,632.80"
+2365296,2972579,ZEMAP LTD,19/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,£790.00
+2365296,2965123,ZEMAP LTD,05/12/2013,48509,Other Fees,Finance Department,LMA External Funded Projects,"£3,214.00"
