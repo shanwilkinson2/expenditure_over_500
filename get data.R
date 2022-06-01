@@ -5,11 +5,12 @@
   library(readxl)
   library(XML)
   
-  # make new folder to put them in (only need to do once)   
-  # delete folder & contents if it already exists
-  if(file.exists(expenditure)) {
-    unlink(expenditure)
-    cat("files deleted")
+  # check if folder already exists to put downloaded files in
+  # if it does, read in files already there
+  # if not make folder  
+  if(file.exists("expenditure")) {
+    message("Folder already exists")
+    already_downloaded <- list.files("./expenditure")
   } else{
   dir.create("expenditure")  
   }
@@ -28,37 +29,50 @@ url <- "https://www.bolton.gov.uk/downloads/download/196/expenditure_reports"
     # get rid of duplicates
     unique() %>%
     # get rid of folder structure bits to just get filename
-    mutate(new_filename =   stringr::str_replace(link, 
+    mutate(expenditure_filename =   stringr::str_replace(link, 
                                           "/downloads/file/\\d+/",
                                           ""
                                           ),
            # get date part of filename
-           file_date = stringr::str_replace(new_filename, 
+           file_date = stringr::str_replace(expenditure_filename, 
               "expenditure-over-500-for-",
               ""),
            # turn date as text into date as date
            file_date2 = lubridate::fast_strptime(file_date, 
-                                                 format = "%B-%Y")
+                                                 format = "%B-%Y"),
+    # add in if they're already downloaded
+      file_downloaded = ifelse(expenditure_filename %in% already_downloaded,
+                               TRUE, FALSE)
     )
+  
+  
 
 # need to download files first then read
-for(i in 1:nrow(links2)){
-  
-  # read.csv(paste0("https://www.bolton.gov.uk/", links2$link[i]))
-  
-  download.file(paste0("https://www.bolton.gov.uk", links2$link[i]),
-                #remove file dividers from file location NOT WORKING YET
-                destfile = paste0("./expenditure/", links2$new_filename[i]),
-                #mode = "wb"
-                )
+# go through links to download & download if not done already  
+  for(i in 1:nrow(links2)){
+    if(links2$file_downloaded[i] == FALSE) {
+    download.file(paste0("https://www.bolton.gov.uk", links2$link[i]),
+                  destfile = paste0("./expenditure/", links2$expenditure_filename[i]),
+                  )
+    }
+  }
 
-}
-
-# get list of filenames & file types that have been downloaded
-excel_files <- list.files(path="./licenses", pattern = ".xls") %>%
-  as.data.frame()
-
-names(excel_files) = "filename"
-
-excel_files <- excel_files %>%
-  mutate(filetype = stringr::str_extract(filename, "\\.xlsx?$"))
+# read in downloaded files 
+  # variables not all same type....
+  all_expenditure <- for(i in 1:nrow(links2)){
+    filepath <- paste0("./expenditure/", links2$expenditure_filename[i])
+    #if first file 
+      if(i == 1){
+        expenditure <- data.table::fread(filepath) # %>%
+          #mutate(file_date = links2$file_date2[i])
+      } else {
+        expenditure <- bind_rows(expenditure, 
+                  data.table::fread(filepath) #%>%
+                    #mutate(file_date = links2$file_date2[i])
+                    
+        )
+        # return(expenditure)
+      }
+      
+    }
+ 
