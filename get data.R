@@ -2,7 +2,6 @@
 
 # load packages
   library(dplyr)
-  library(readxl)
   library(XML)
   library(purrr)
   
@@ -34,14 +33,6 @@ url <- "https://www.bolton.gov.uk/downloads/download/196/expenditure_reports"
                                           "/downloads/file/\\d+/",
                                           ""
                                           ),
-           # get date part of filename
-           file_date = stringr::str_replace(expenditure_filename, 
-              "expenditure-over-500-for-",
-              ""),
-           # turn date as text into date as date
-           file_date2 = lubridate::fast_strptime(file_date, 
-                                                 format = "%B-%Y"),
-           file_date2 = as.POSIXct(file_date2),
       # add in if they're already downloaded
       file_downloaded = ifelse(expenditure_filename %in% already_downloaded,
                                TRUE, FALSE)
@@ -51,7 +42,6 @@ url <- "https://www.bolton.gov.uk/downloads/download/196/expenditure_reports"
   message(paste("NUmber of new files available to download:", 
                 length(links2$file_downloaded[FALSE])))
 
-# need to download files first then read
 # go through links to download & download if not done already 
   for(i in 1:nrow(links2)){
     if(links2$file_downloaded[i] == FALSE) {
@@ -61,62 +51,4 @@ url <- "https://www.bolton.gov.uk/downloads/download/196/expenditure_reports"
     }
   }
 
- # read in downloaded files ################################
-
-  # already_downloaded2 <- data.frame(expenditure_filename = already_downloaded) %>%
-  #   mutate(
-  #     # get date part of filename
-  #     file_date = stringr::str_replace(expenditure_filename, 
-  #                                      "expenditure-over-500-for-",
-  #                                      ""),
-  #     # turn date as text into date as date
-  #     file_date2 = lubridate::fast_strptime(file_date, 
-  #                                           format = "%B-%Y")
-  #   ) 
-
-# read in contents of all files as a list   
-  files_list <- map(.x = paste0("./expenditure/", already_downloaded), 
-                     .f = ~.x %>%
-                      data.table::fread() %>%
-                      janitor::clean_names()
-                    )
- 
- # applying a different date to each element, just looks like the wrong one
- files_list2 <- mapply(cbind, 
-                       files_list, 
-                       "file_date" = links2$file_date2,
-                       SIMPLIFY = FALSE)
- 
-
-  
-  # variables not all same type....
-  all_expenditure <- for(i in 1:nrow(already_downloaded2)){
-    filepath <- paste0("./expenditure/", already_downloaded2$expenditure_filename[i])
-    
-    process_file <- data.table::fread(filepath) %>%
-      mutate(file_date = already_downloaded2$file_date2[i])
-      
-      if(already_downloaded2$expenditure_filename == "expenditure-over-500-for-june-2021"){
-        process_file <- process_file[-1,]
-      }
-        
-    }
-    
-    #if first file 
-      if(i == 1){
-        expenditure <- process_file
-          # data.table::fread(filepath) %>%
-          # mutate(file_date = links2$file_date2[i])
-      } else {
-        expenditure2 <- 
-          # data.table::fread(filepath) %>%
-          # mutate(file_date = links2$file_date2[i])
-        expenditure <- bind_rows(expenditure, 
-                  expenditure2 
-                    
-        )
-        # return(expenditure)
-      }
-      
-    }
  
