@@ -33,48 +33,34 @@ library(janitor)
                         "file_date" = downloaded_files$file_date2,
                         SIMPLIFY = FALSE)
 
-# compare variables in list elements - not comparing, looking at each seperately
-  # compare_df_cols(df1, df2, df3, return = "mismatch")
-  colname_mismatches <- map(.x = files_list2,
-                            .f = ~janitor::compare_df_cols(
-                              .x, 
-                              return= "mismatch")
-                            )
+  names(files_list2) <- downloaded_files$file_date
+  
+# compare variables in list elements
+  colname_mismatches <- compare_df_cols(files_list2,
+                  return = "mismatch") %>%
+    data.table::transpose()
+  names(colname_mismatches)<- colname_mismatches[1,]
+  colname_mismatches <- colname_mismatches[-1,] 
+  colname_mismatches <- colname_mismatches %>%
+    mutate(file_date = names(files_list2))
 
-  # not working not lists of dataframes
-  colname_mismatches <- compare_df_cols(c(files_list2[[1]], 
-                                          files_list2[[2]], 
-                                          files_list2[[3]], 
-                                          files_list2[[4]]),
-                  return = "mismatch")
+  colname_mismatches %>% filter(!is.na(v1))
+  
+# cleaning
+  # has an extra row at the top
+  # june-2011 
+  # january-2018
+  
+  
+  delete_extra_top_row <- function(filename) {
+    
+  }
+  
+  names(files_list2[["june-2021"]]) <- head(files_list2[["june-2021"]],1)
+head(files_list2[["june-2021"]],1)
 
-# # variables not all same type....
-# all_expenditure <- for(i in 1:nrow(downloaded_files)){
-#   filepath <- paste0("./expenditure/", already_downloaded2$expenditure_filename[i])
-#   
-#   process_file <- data.table::fread(filepath) %>%
-#     mutate(file_date = downloaded_files$file_date2[i])
-#   
-#   if(already_downloaded2$expenditure_filename == "expenditure-over-500-for-june-2021"){
-#     process_file <- process_file[-1,]
-#   }
-#   
-# }
-# 
-# #if first file 
-# if(i == 1){
-#   expenditure <- process_file
-#   # data.table::fread(filepath) %>%
-#   # mutate(file_date = links2$file_date2[i])
-# } else {
-#   expenditure2 <- 
-#     # data.table::fread(filepath) %>%
-#     # mutate(file_date = links2$file_date2[i])
-#     expenditure <- bind_rows(expenditure, 
-#                              expenditure2 
-#                              
-#     )
-#   # return(expenditure)
-# }
-# 
-# }
+df <- files_list2[["june-2021"]]
+names(df) <- as.character(df[1,])
+df <- df[-1,]
+  
+                  
