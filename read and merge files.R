@@ -47,20 +47,35 @@ library(janitor)
   colname_mismatches %>% filter(!is.na(v1))
   
 # cleaning
-  # has an extra row at the top
-  # june-2011 
-  # january-2018
+  # january-2018 - 1st col unnamed, seems to be an id number
+  # june-2021 - first row blank, probably empty columns at the end
   
   
-  delete_extra_top_row <- function(filename) {
-    
+  files_list3 <- map(.x = files_list2,
+                     .f = ~janitor::remove_empty(.x, "cols"))
+
+  
+  # identify if all col names are v1, v2, v3 etc
+  current_names <- names(files_list3[[1]])
+  current_names <- current_names[1:(length(current_names)-1)]
+  
+  test_names <- 1:(length(current_names))
+  test_names <- paste0("v", test_names)
+  
+  test_2 <- data.frame(current_names = current_names, 
+                       test_names = test_names) %>%
+    mutate(match = ifelse(current_names == test_names, TRUE, FALSE))
+  
+
+  if(sum(test_2$mismatch > 0)) {
+    message("blank names")
   }
   
-  names(files_list2[["june-2021"]]) <- head(files_list2[["june-2021"]],1)
-head(files_list2[["june-2021"]],1)
+  my_df <- files_list3[["june-2021"]] %>%
+    janitor::row_to_names(1) %>%
+    clean_names()
+    # last is file_date, but has removed this because it did have a colname
+    names(my_df)[length(my_df)] <- "file_date"
+ 
 
-df <- files_list2[["june-2021"]]
-names(df) <- as.character(df[1,])
-df <- df[-1,]
   
-                  
