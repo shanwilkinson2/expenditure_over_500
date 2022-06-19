@@ -3,6 +3,7 @@
 library(dplyr)
 library(purrr)
 library(janitor)
+library(lubridate)
 
 # read in downloaded files ################################
 
@@ -47,7 +48,7 @@ library(janitor)
       View(colname_mismatches)
   }
 
-  colname_mismatches %>% filter(!is.na(v1))
+compare_mismatches(files_list2)
   
 # cleaning
   # january-2018 - 1st col unnamed, seems to be an id number
@@ -85,15 +86,33 @@ library(janitor)
   files_list3 <- files_list2
   
 for(i in 1:length(files_list3)){
-  filename <- files_list3 # copying over the object not the name
-  
-  if(check_toprow_blank(filename, i) > 0) {
+  if(check_toprow_blank(files_list3, i) > 0) {
     files_list3[[i]] <- files_list3[[i]] %>%
       janitor::row_to_names(1) %>%
       clean_names()
     # last is file_date, but has removed this because it did have a colname
     names(files_list3[[i]])[length(files_list3[[i]])] <- "file_date"
   }
+  
+  if(class(files_list3[[i]]$paid_date) == "character") {
+    files_list3[[i]]$paid_date <- dmy(files_list3[[i]]$paid_date)
+  }
+  
+  if(class(files_list3[[i]]$paid_date) == "integer") {
+    files_list3[[i]]$paid_date <- ymd(files_list3[[i]]$paid_date)
+  }
+  
+  # if(!is.null(files_list3[[i]]$date_paid)){
+  #   files_list3[[i]]$date_paid <- ymd(files_list3[[i]]$date_paid)
+  #   files_list3[[i]]$paid_date <- files_list3[[date_paid]]
+  #   fils_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
+  # }
+  # 
+  files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
+  files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
 }
 
-  
+  compare_mismatches(files_list3)
+
+  files_df <- bind_rows(files_list3)
+    
