@@ -18,7 +18,8 @@ library(lubridate)
       file_date2 = lubridate::fast_strptime(file_date,
                                             format = "%B-%Y") %>%
         as.POSIXct()
-    )
+    ) %>%
+    arrange(desc(file_date2))
 
 # read in contents of all files as a list   
   files_list <- map(.x = paste0("./expenditure/", 
@@ -48,12 +49,14 @@ library(lubridate)
       View(colname_mismatches)
   }
 
-compare_mismatches(files_list2)
+# compare_mismatches(files_list2)
   
 # cleaning
   # january-2018 - 1st col unnamed, seems to be an id number
   # june-2021 - first row blank, probably empty columns at the end
   # payment date is a mix of number (date squished into number)& text (date with -)
+  # payment_date - latest, date_paid, payment_data, date_paid, payment_dates
+  
   
   # remove empty columns
   files_list2 <- map(.x = files_list2,
@@ -102,17 +105,38 @@ for(i in 1:length(files_list3)){
     files_list3[[i]]$paid_date <- ymd(files_list3[[i]]$paid_date)
   }
   
-  # if(!is.null(files_list3[[i]]$date_paid)){
-  #   files_list3[[i]]$date_paid <- ymd(files_list3[[i]]$date_paid)
-  #   files_list3[[i]]$paid_date <- files_list3[[date_paid]]
-  #   fils_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
-  # }
-  # 
+  if(sum(names(files_list3[[i]]) %in% "payment_data")>0){
+    data.table::setnames(files_list3[[i]], "payment_data", "payment_date")
+  }
+  
+  if(sum(names(files_list3[[i]]) %in% "serivce_area")>0){
+    data.table::setnames(files_list3[[i]], "serivce_area", "service_area")
+  }
+  
+  if(sum(names(files_list3[[i]]) %in% "decription")>0){
+    data.table::setnames(files_list3[[i]], "decription", "description")
+  }
+  
+  if(sum(names(files_list3[[i]]) %in% "payment_date")>0){
+    files_list3[[i]]$payment_date2 <- ymd(files_list3[[i]]$payment_date)
+    #files_list3[[i]]$paid_date <- files_list3[[date_paid]]
+    #files_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
+  }
+  
   files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
   files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
 }
 
-  compare_mismatches(files_list3)
-
+  compare_colnames <- compare_df_cols(files_list3) %>% 
+    data.table::transpose() %>%
+    row_to_names(1) %>%
+    cbind(names_from = downloaded_files$file_date2) %>%
+    relocate(names_from)
+compare_colnames <- compare_colnames %>%
+  mutate(file_date = names(objectname))
+View(colname_mismatches)
+  
+  
+# turn into df
   files_df <- bind_rows(files_list3)
     
