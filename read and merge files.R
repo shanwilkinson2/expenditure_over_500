@@ -92,7 +92,8 @@ for(i in 1:length(files_list3)){
   if(check_toprow_blank(files_list3, i) > 0) {
     files_list3[[i]] <- files_list3[[i]] %>%
       janitor::row_to_names(1) %>%
-      clean_names()
+      clean_names() %>%
+      
     # last is file_date, but has removed this because it did have a colname
     names(files_list3[[i]])[length(files_list3[[i]])] <- "file_date"
   }
@@ -105,9 +106,14 @@ for(i in 1:length(files_list3)){
     files_list3[[i]]$paid_date <- ymd(files_list3[[i]]$paid_date)
   }
   
+  if(sum(names(files_list3[[i]]) %in% "body_name")>0){
+    data.table::setnames(files_list3[[i]], "body_name", "authority",
+                         skip_absent = TRUE)
+  }
+  
   if(sum(names(files_list3[[i]]) %in% "payment_data")>0){
     data.table::setnames(files_list3[[i]], "payment_data", "payment_date")
-  }
+  } %>%
   
   if(sum(names(files_list3[[i]]) %in% "serivce_area")>0){
     data.table::setnames(files_list3[[i]], "serivce_area", "service_area")
@@ -140,3 +146,29 @@ View(colname_mismatches)
 # turn into df
   files_df <- bind_rows(files_list3)
     
+  
+# test rename
+  test_df <- data.frame (x1 = 1:10, x2 = 21:30)
+  test_df <- rename(test_df, any_of(
+                  c(var1 = "x1", var2 = "x2", var3 = "x3")))
+  
+  test_list <- list(a = data.frame (x1 = 1:10, x2 = 21:30),
+                    b = data.frame (x1 = 1:10, xx2 = 31:40)
+                    )
+
+  test_list[[2]] <- rename(test_list[[2]], 
+                           any_of(c(var1 = "x1", var2 = "xx2"))
+  )
+
+  test_list[[2]] <- data.table::setnames(test_list[[2]],
+                                         old = c("x1", "xx2"),
+                                         new = c("var1", "var2") ,
+                                         skip_absent = TRUE
+  )
+  
+  test_df <- data.table::setnames(test_df,
+                                  old = c("x1", "x3"),
+                                  new = c("var1", "var3"),
+                                  skip_absent = TRUE
+  )
+  
