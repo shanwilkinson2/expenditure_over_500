@@ -89,45 +89,44 @@ library(lubridate)
   files_list3 <- files_list2
   
 for(i in 1:length(files_list3)){
-  if(check_toprow_blank(files_list3, i) > 0) {
+  
+  # if >5 variable names match those given to blank colnames,
+    # take colnames from top row
+  if(check_toprow_blank(files_list3, i) >5) {
     files_list3[[i]] <- files_list3[[i]] %>%
       janitor::row_to_names(1) %>%
-      clean_names() %>%
-      
+      clean_names()
     # last is file_date, but has removed this because it did have a colname
     names(files_list3[[i]])[length(files_list3[[i]])] <- "file_date"
   }
   
-  if(class(files_list3[[i]]$paid_date) == "character") {
-    files_list3[[i]]$paid_date <- dmy(files_list3[[i]]$paid_date)
-  }
+  ## 1 fails to parse
+  # if(class(files_list3[[i]]$paid_date) == "character") {
+  #   files_list3[[i]]$paid_date <- dmy(files_list3[[i]]$paid_date)
+  # }
   
   if(class(files_list3[[i]]$paid_date) == "integer") {
     files_list3[[i]]$paid_date <- ymd(files_list3[[i]]$paid_date)
   }
   
-  if(sum(names(files_list3[[i]]) %in% "body_name")>0){
-    data.table::setnames(files_list3[[i]], "body_name", "authority",
-                         skip_absent = TRUE)
-  }
+  # rename col names
+  files_list3[[i]] <- files_list3[[i]] %>%
+    rename_at(vars(matches(c("body_name", "boday_name"))), ~"authority") %>%
+    rename_at(vars(matches(c("servcie_area", "serivce_area"))), ~"service_area") %>%
+    rename_at(vars(matches(c("body_name", "boday_name"))), ~"authority") %>%
+    rename_at(vars(matches(c("invoice_line_amount"))), ~"amount") %>%
+    rename_at(vars(matches(c("decription"))), ~"description") %>%
+    rename_at(vars(matches(c("payment_dates", "payment_data"))), ~"payment_date")
   
-  if(sum(names(files_list3[[i]]) %in% "payment_data")>0){
-    data.table::setnames(files_list3[[i]], "payment_data", "payment_date")
-  } %>%
+  # if(sum(names(files_list3[[i]]) %in% "decription")>0){
+  #   data.table::setnames(files_list3[[i]], "decription", "description")
+  # }
   
-  if(sum(names(files_list3[[i]]) %in% "serivce_area")>0){
-    data.table::setnames(files_list3[[i]], "serivce_area", "service_area")
-  }
-  
-  if(sum(names(files_list3[[i]]) %in% "decription")>0){
-    data.table::setnames(files_list3[[i]], "decription", "description")
-  }
-  
-  if(sum(names(files_list3[[i]]) %in% "payment_date")>0){
-    files_list3[[i]]$payment_date2 <- ymd(files_list3[[i]]$payment_date)
-    #files_list3[[i]]$paid_date <- files_list3[[date_paid]]
-    #files_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
-  }
+  # if(sum(names(files_list3[[i]]) %in% "payment_date")>0){
+  #   files_list3[[i]]$payment_date2 <- ymd(files_list3[[i]]$payment_date)
+  #   #files_list3[[i]]$paid_date <- files_list3[[date_paid]]
+  #   #files_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
+  # }
   
   files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
   files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
@@ -136,39 +135,11 @@ for(i in 1:length(files_list3)){
   compare_colnames <- compare_df_cols(files_list3) %>% 
     data.table::transpose() %>%
     row_to_names(1) %>%
-    cbind(names_from = downloaded_files$file_date2) %>%
-    relocate(names_from)
-compare_colnames <- compare_colnames %>%
-  mutate(file_date = names(objectname))
-View(colname_mismatches)
+    cbind(from_filedate = downloaded_files$file_date2) %>% 
+    cbind(from_filename = downloaded_files$file_date) %>%
+    relocate(c(from_filedate, from_filename))
   
   
 # turn into df
   files_df <- bind_rows(files_list3)
     
-  
-# test rename
-  test_df <- data.frame (x1 = 1:10, x2 = 21:30)
-  test_df <- rename(test_df, any_of(
-                  c(var1 = "x1", var2 = "x2", var3 = "x3")))
-  
-  test_list <- list(a = data.frame (x1 = 1:10, x2 = 21:30),
-                    b = data.frame (x1 = 1:10, xx2 = 31:40)
-                    )
-
-  test_list[[2]] <- rename(test_list[[2]], 
-                           any_of(c(var1 = "x1", var2 = "xx2"))
-  )
-
-  test_list[[2]] <- data.table::setnames(test_list[[2]],
-                                         old = c("x1", "xx2"),
-                                         new = c("var1", "var2") ,
-                                         skip_absent = TRUE
-  )
-  
-  test_df <- data.table::setnames(test_df,
-                                  old = c("x1", "x3"),
-                                  new = c("var1", "var3"),
-                                  skip_absent = TRUE
-  )
-  
