@@ -56,13 +56,18 @@ library(lubridate)
   # june-2021 - first row blank, probably empty columns at the end
   # payment date is a mix of number (date squished into number)& text (date with -)
   # payment_date - latest, date_paid, payment_data, date_paid, payment_dates
-  
+  # july-2019- invoice_date only date
+  # april-2016 - date_invoiced as well as payment_date
+  # august-2016 - invoice = invoiced amount
+  # v1 - unnamed variable, january-2018
+  # april-2016 has all of: supplier_id, invoice_id, supplier_invoice_id
+  # january-2018 'date' is among files with only payment_date, so assumed it is this not invoice date
   
   # remove empty columns
   files_list2 <- map(.x = files_list2,
                      .f = ~janitor::remove_empty(.x, "cols"))
 
- # check for blank names 
+# function - check for blank names 
   check_toprow_blank <- function(filename, i){
     test_names <- 1:100
     test_names <- paste0("v", test_names) 
@@ -76,15 +81,7 @@ library(lubridate)
       mutate(match = ifelse(current_names == test_names, TRUE, FALSE))
     return(sum(test_2$match))
   }
- 
-  # # change blank names- not working
-  # change_blank_names <- function(filename, i){
-  #   filename[[i]] <- filename[[i]] %>%
-  #     janitor::row_to_names(1) %>%
-  #     clean_names()
-  #   # last is file_date, but has removed this because it did have a colname
-  #   names(filename[[i]])[length(filename[[i]])] <- "file_date"
-  # }
+  
   
   files_list3 <- files_list2
   
@@ -112,15 +109,25 @@ for(i in 1:length(files_list3)){
   # rename col names
   files_list3[[i]] <- files_list3[[i]] %>%
     rename_at(vars(matches(c("body_name", "boday_name"))), ~"authority") %>%
-    rename_at(vars(matches(c("servcie_area", "serivce_area"))), ~"service_area") %>%
+    rename_at(vars(matches(c("servcie_area", "serivce_area", "directorate"))), ~"service_area") %>%
     rename_at(vars(matches(c("body_name", "boday_name"))), ~"authority") %>%
-    rename_at(vars(matches(c("invoice_line_amount"))), ~"amount") %>%
-    rename_at(vars(matches(c("decription"))), ~"description") %>%
-    rename_at(vars(matches(c("payment_dates", "payment_data"))), ~"payment_date")
-  
-  # if(sum(names(files_list3[[i]]) %in% "decription")>0){
-  #   data.table::setnames(files_list3[[i]], "decription", "description")
-  # }
+    rename_at(vars(matches(c("invoice_line_amount", "^invoice$", 
+                             "^invoiced$", "^invoiced_a$", "invoice_distribution_amount",
+                             "spend_exc_vat"))), ~"amount") %>%
+    rename_at(vars(matches(c("^expense$", "expenses_type"))), ~"expense_type") %>%
+    rename_at(vars(matches(
+      c("payment_dates", "payment_data", "paid_date", 
+        "^date$", "date_paid"))), ~"payment_date") %>%
+    rename_at(vars(matches(c("date_invoiced"))), ~"invoice_date") %>%
+    rename_at(vars(matches(
+      c("subjective_description", "subjective_descr", "subjective_name",
+        "^description$", "decription", "gl_desc", "expense_type"))), ~"subject_description") %>%
+    rename_at(vars(matches(c("^cost_centre$"))), ~"cost_centre_code") %>%
+    rename_at(vars(matches(c("supp_id"))), ~"supplier_id") %>%
+    rename_at(vars(matches(c("^subjective_codes$", "gl_code"))), ~"subjective_code") %>%
+    rename_at(vars(matches(c("^cost_centre_desc$"))), ~"cost_centre_name") %>%
+    rename_at(vars(matches(c("supplier_name"))), ~"supplier") %>%
+    rename_at(vars(matches(c("^v1$"))), ~"unknown_id") 
   
   # if(sum(names(files_list3[[i]]) %in% "payment_date")>0){
   #   files_list3[[i]]$payment_date2 <- ymd(files_list3[[i]]$payment_date)
@@ -139,7 +146,8 @@ for(i in 1:length(files_list3)){
     cbind(from_filename = downloaded_files$file_date) %>%
     relocate(c(from_filedate, from_filename))
   
-  
+########################################################### 
+   
 # turn into df
   files_df <- bind_rows(files_list3)
     
