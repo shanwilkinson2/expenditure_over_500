@@ -52,14 +52,12 @@ library(lubridate)
 # compare_mismatches(files_list2)
   
 # cleaning
-  # january-2018 - 1st col unnamed, seems to be an id number
+  # january-2018 - 1st col unnamed (v1), seems to be an id number
   # june-2021 - first row blank, probably empty columns at the end
   # payment date is a mix of number (date squished into number)& text (date with -)
-  # payment_date - latest, date_paid, payment_data, date_paid, payment_dates
   # july-2019- invoice_date only date
   # april-2016 - date_invoiced as well as payment_date
   # august-2016 - invoice = invoiced amount
-  # v1 - unnamed variable, january-2018
   # april-2016 has all of: supplier_id, invoice_id, supplier_invoice_id
   # january-2018 'date' is among files with only payment_date, so assumed it is this not invoice date
   
@@ -129,11 +127,15 @@ for(i in 1:length(files_list3)){
     rename_at(vars(matches(c("supplier_name"))), ~"supplier") %>%
     rename_at(vars(matches(c("^v1$"))), ~"unknown_id") 
   
-  # if(sum(names(files_list3[[i]]) %in% "payment_date")>0){
-  #   files_list3[[i]]$payment_date2 <- ymd(files_list3[[i]]$payment_date)
-  #   #files_list3[[i]]$paid_date <- files_list3[[date_paid]]
+
+  if(is.character(files_list3[[i]]$payment_date)) {
+    files_list3[[i]]$payment_date2 <- dmy(files_list3[[i]]$payment_date)
+  print(paste
+        ("filedate:", min(files_list3[[i]]$file_date), 
+          min(files_list3[[i]]$payment_date2), max(files_list3[[i]]$payment_date2)))
+    #   #files_list3[[i]]$paid_date <- files_list3[[date_paid]]
   #   #files_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
-  # }
+  }
   
   files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
   files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
