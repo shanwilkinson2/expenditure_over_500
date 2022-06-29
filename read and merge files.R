@@ -36,7 +36,11 @@ library(lubridate)
                         SIMPLIFY = FALSE)
 
   names(files_list2) <- downloaded_files$file_date
-  
+ 
+# remove empty columns
+  files_list2 <- map(.x = files_list2,
+                     .f = ~janitor::remove_empty(.x, "cols"))  
+   
 # compare variables in list elements
   compare_mismatches <- function(objectname){
       colname_mismatches <- compare_df_cols(objectname,
@@ -61,9 +65,6 @@ library(lubridate)
   # april-2016 has all of: supplier_id, invoice_id, supplier_invoice_id
   # january-2018 'date' is among files with only payment_date, so assumed it is this not invoice date
   
-  # remove empty columns
-  files_list2 <- map(.x = files_list2,
-                     .f = ~janitor::remove_empty(.x, "cols"))
 
 # function - check for blank names 
   check_toprow_blank <- function(filename, i){
@@ -95,11 +96,7 @@ for(i in 1:length(files_list3)){
     names(files_list3[[i]])[length(files_list3[[i]])] <- "file_date"
   }
   
-  ## 1 fails to parse
-  # if(class(files_list3[[i]]$paid_date) == "character") {
-  #   files_list3[[i]]$paid_date <- dmy(files_list3[[i]]$paid_date)
-  # }
-  
+  # one is date as a number as yymmdd, convert to date
   if(class(files_list3[[i]]$paid_date) == "integer") {
     files_list3[[i]]$paid_date <- ymd(files_list3[[i]]$paid_date)
   }
@@ -127,18 +124,18 @@ for(i in 1:length(files_list3)){
     rename_at(vars(matches(c("supplier_name"))), ~"supplier") %>%
     rename_at(vars(matches(c("^v1$"))), ~"unknown_id") 
   
-
-  if(is.character(files_list3[[i]]$payment_date)) {
-    files_list3[[i]]$payment_date2 <- dmy(files_list3[[i]]$payment_date)
-  print(paste
-        ("filedate:", min(files_list3[[i]]$file_date), 
-          min(files_list3[[i]]$payment_date2), max(files_list3[[i]]$payment_date2)))
-    #   #files_list3[[i]]$paid_date <- files_list3[[date_paid]]
-  #   #files_list3[[i]] <- subset (files_list3[[i]], select = -c(date_paid))
+   # change date as a number as yymmdd, to date
+  if(class(files_list3[[i]]$payment_date) == "integer") {
+    files_list3[[i]]$payment_date <- ymd(files_list3[[i]]$payment_date)
   }
+  
+  # change date as character to date as date
+  if(is.character(files_list3[[i]]$payment_date)) {
+    files_list3[[i]]$payment_date <- dmy(files_list3[[i]]$payment_date)
   
   files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
   files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
+  }
 }
 
   compare_colnames <- compare_df_cols(files_list3) %>% 
@@ -147,6 +144,36 @@ for(i in 1:length(files_list3)){
     cbind(from_filedate = downloaded_files$file_date2) %>% 
     cbind(from_filename = downloaded_files$file_date) %>%
     relocate(c(from_filedate, from_filename))
+  
+###########################################################
+# check dates are credible
+  
+  check_date_out_of_range <- function(i, filename) {
+    filename[[i]] %>% 
+    #files_list3[[i]] %>%
+      mutate(date_check_min = payment_date2 < file_date,
+             date_check_max = payment_date2 >= file_date %m+% months(1)) %>% 
+      summarise(out_of_range_min = sum(date_check_min),
+                out_of_range_max = sum(date_check_max))
+  }
+  
+
+  for(i in 1:length(files_list3)){
+    
+    if("payment_date2" %in% colnames(files_list3[[i]])) {
+      
+    if(i == 1) {
+      out_of_range <- check_date_out_of_range(i, files_list3) %>% 
+        cbind(file_date = files_list3[[i]]$file_date[1])
+    } else {
+      out_of_range <- bind_rows(
+        out_of_range, 
+          check_date_out_of_range(i, files_list3) %>% 
+            cbind(file_date = files_list3[[i]]$file_date[1])
+        )
+    }
+    }
+  }
   
 ########################################################### 
    
