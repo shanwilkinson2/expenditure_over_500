@@ -17,7 +17,7 @@ library(lubridate)
       # turn date as text into date as date
       file_date2 = lubridate::fast_strptime(file_date,
                                             format = "%B-%Y") %>%
-        as.POSIXct()
+        as.Date()
     ) %>%
     arrange(desc(file_date2))
 
@@ -58,13 +58,14 @@ library(lubridate)
 # cleaning
   # january-2018 - 1st col unnamed (v1), seems to be an id number
   # june-2021 - first row blank, probably empty columns at the end
-  # payment date is a mix of number (date squished into number)& text (date with -)
+  # payment date is a mix of number (date squished into number yyyymmdd)
+    #  & text (ddmmyyyy) & text (yyyymmdd) which reads as date
   # july-2019- invoice_date only date
   # april-2016 - date_invoiced as well as payment_date
   # august-2016 - invoice = invoiced amount
   # april-2016 has all of: supplier_id, invoice_id, supplier_invoice_id
+  # invoice date in april-2016 dd/mm/yyyy, august 2019 dd-mmm-yy
   # january-2018 'date' is among files with only payment_date, so assumed it is this not invoice date
-  
 
 # function - check for blank names 
   check_toprow_blank <- function(filename, i){
@@ -85,8 +86,7 @@ library(lubridate)
   files_list3 <- files_list2
   
 for(i in 1:length(files_list3)){
-  
-  # if >5 variable names match those given to blank colnames,
+    # if >5 variable names match those given to blank colnames,
     # take colnames from top row
   if(check_toprow_blank(files_list3, i) >5) {
     files_list3[[i]] <- files_list3[[i]] %>%
@@ -124,20 +124,32 @@ for(i in 1:length(files_list3)){
     rename_at(vars(matches(c("supplier_name"))), ~"supplier") %>%
     rename_at(vars(matches(c("^v1$"))), ~"unknown_id") 
   
-   # change date as a number as yymmdd, to date
+   # payment date - change date as a number as yymmdd, to date
   if(class(files_list3[[i]]$payment_date) == "integer") {
     files_list3[[i]]$payment_date <- ymd(files_list3[[i]]$payment_date)
   }
   
-  # change date as character to date as date
+  # payment date - change date as character to date as date
   if(is.character(files_list3[[i]]$payment_date)) {
     files_list3[[i]]$payment_date <- dmy(files_list3[[i]]$payment_date)
   
+  # invoice date - change date as character to date as date
+    # still not parsing 09-Aug-19
+  if(is.character(files_list3[[i]]$invoice_date)) {
+    files_list3[[i]]$invoice_date <- dmy(files_list3[[i]]$invoice_date)
+    # files_list3[[i]]$invoice_date <- parse_date_time(files_list3[[i]]$invoice_date,
+    #                                                 orders = c("d-b-y", "d/m/Y"))
+    # files_list3[[i]]$invoice_date <- parse_date_time2(files_list3[[i]]$invoice_date, 
+    #                                          orders = c("d-b-y", "d/m/Y"))
+    # files_list3[[i]]$invoice_date <- as.Date(files_list3[[i]]$invoice_date)
+  }
+   
+  # convert ids to all character, some are number  
   files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
   files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
   }
-}
-
+}  
+  
   compare_colnames <- compare_df_cols(files_list3) %>% 
     data.table::transpose() %>%
     row_to_names(1) %>%
@@ -179,4 +191,20 @@ for(i in 1:length(files_list3)){
    
 # turn into df
   files_df <- bind_rows(files_list3)
+    
+#####################################
+  
+  test_dates <- list(a = data.frame(date = c("11-Jul-19", "11-Jul-19", "11-Jul-19", "25-Jul-19",
+                           "02-Jul-19", "02-Jul-19")),
+                     b = data.frame(date = c("10/03/2016", "10/03/2016", "31/03/2016", "08/04/2016",
+                           "11/04/2016", "07/04/2016")))
+  
+  # parse_date_time(test_dates, orders = c("d-b-y", "d/m/Y"))
+
+  for(i in 1: length(test_dates)){
+    # test_dates[[i]]$date <- parse_date_time2(test_dates[[i]]$date, 
+    #                         orders = c("d-b-y", "d/m/Y"))
+    #   test_dates[[i]]$date <- as.Date(test_dates[[i]]$date)
+    test_dates[[i]]$date <- dmy(test_dates[[i]]$date)
+  }
     
