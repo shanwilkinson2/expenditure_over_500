@@ -26,6 +26,8 @@ library(lubridate)
                                 downloaded_files$expenditure_filename), 
                     .f = ~.x %>%
                       data.table::fread() %>%
+                      mutate(across(cols= everything, .fns = ~stringr::str_replace(., "<NA>", NA_character_))) %>%
+                      janitor::remove_empty(which = c("rows", "cols")) %>%
                       janitor::clean_names() 
   )
 
@@ -132,22 +134,17 @@ for(i in 1:length(files_list3)){
   # payment date - change date as character to date as date
   if(is.character(files_list3[[i]]$payment_date)) {
     files_list3[[i]]$payment_date <- dmy(files_list3[[i]]$payment_date)
-  
-  # invoice date - change date as character to date as date
-    # still not parsing 09-Aug-19
+  }
+    
+    # invoice date - change date as character to date as date
   if(is.character(files_list3[[i]]$invoice_date)) {
-    files_list3[[i]]$invoice_date <- dmy(files_list3[[i]]$invoice_date)
-    # files_list3[[i]]$invoice_date <- parse_date_time(files_list3[[i]]$invoice_date,
-    #                                                 orders = c("d-b-y", "d/m/Y"))
-    # files_list3[[i]]$invoice_date <- parse_date_time2(files_list3[[i]]$invoice_date, 
-    #                                          orders = c("d-b-y", "d/m/Y"))
-    # files_list3[[i]]$invoice_date <- as.Date(files_list3[[i]]$invoice_date)
+     files_list3[[i]]$invoice_date <- dmy(files_list3[[i]]$invoice_date)
   }
    
   # convert ids to all character, some are number  
   files_list3[[i]]$invoice_id <- as.character(files_list3[[i]]$invoice_id)
   files_list3[[i]]$supplier_id <- as.character(files_list3[[i]]$supplier_id)
-  }
+
 }  
   
   compare_colnames <- compare_df_cols(files_list3) %>% 
@@ -156,55 +153,27 @@ for(i in 1:length(files_list3)){
     cbind(from_filedate = downloaded_files$file_date2) %>% 
     cbind(from_filename = downloaded_files$file_date) %>%
     relocate(c(from_filedate, from_filename))
-  
-###########################################################
-# check dates are credible
-  
-  check_date_out_of_range <- function(i, filename) {
-    filename[[i]] %>% 
-    #files_list3[[i]] %>%
-      mutate(date_check_min = payment_date2 < file_date,
-             date_check_max = payment_date2 >= file_date %m+% months(1)) %>% 
-      summarise(out_of_range_min = sum(date_check_min),
-                out_of_range_max = sum(date_check_max))
-  }
-  
 
-  for(i in 1:length(files_list3)){
-    
-    if("payment_date2" %in% colnames(files_list3[[i]])) {
-      
-    if(i == 1) {
-      out_of_range <- check_date_out_of_range(i, files_list3) %>% 
-        cbind(file_date = files_list3[[i]]$file_date[1])
-    } else {
-      out_of_range <- bind_rows(
-        out_of_range, 
-          check_date_out_of_range(i, files_list3) %>% 
-            cbind(file_date = files_list3[[i]]$file_date[1])
-        )
-    }
-    }
-  }
-  
 ########################################################### 
    
 # turn into df
-  files_df <- bind_rows(files_list3)
-    
+  files_df <- bind_rows(files_list3) %>%
+ # turn amount to number by removing , £
+    mutate(
+      amount = stringr::str_remove(amount, "Â"),
+      amount = stringr::str_remove(amount, "£"),
+      amount = stringr::str_remove_all(amount, ","),
+      amount = stringr::str_remove(amount, ".$"),
+      amount = as.numeric(amount)
+      ) %>% 
+    # get rid of rows with blank amount - they are empty rows except for the file date
+    filter(!is.na(amount))
+  
+
+     
 #####################################
   
-  test_dates <- list(a = data.frame(date = c("11-Jul-19", "11-Jul-19", "11-Jul-19", "25-Jul-19",
-                           "02-Jul-19", "02-Jul-19")),
-                     b = data.frame(date = c("10/03/2016", "10/03/2016", "31/03/2016", "08/04/2016",
-                           "11/04/2016", "07/04/2016")))
+# save cleaned df
+  data.table::fwrite(files_df, "expenditure_over_500.csv")
+  saveRDS(files_df, "expenditure_over_500.RDS")  
   
-  # parse_date_time(test_dates, orders = c("d-b-y", "d/m/Y"))
-
-  for(i in 1: length(test_dates)){
-    # test_dates[[i]]$date <- parse_date_time2(test_dates[[i]]$date, 
-    #                         orders = c("d-b-y", "d/m/Y"))
-    #   test_dates[[i]]$date <- as.Date(test_dates[[i]]$date)
-    test_dates[[i]]$date <- dmy(test_dates[[i]]$date)
-  }
-    
