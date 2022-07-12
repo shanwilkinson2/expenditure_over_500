@@ -176,4 +176,6 @@ for(i in 1:length(files_list3)){
 # save cleaned df
   data.table::fwrite(files_df, "expenditure_over_500.csv")
   saveRDS(files_df, "expenditure_over_500.RDS")  
+# save for app
+  saveRDS(files_df, "./app/expenditure_over_500.RDS")
   
