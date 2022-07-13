@@ -28,15 +28,20 @@ ui <-
                 # about
                 tabItem(tabName = "about",
                     h2("About this dashboard"),
-                    p("This dashboard displays open data from Bolton Council on expenditure over £500"),
+                    p("This dashboard displays open data from Bolton Council on expenditure over £500. ",
                     a("expenditure over £500", 
                       href = "https://www.bolton.gov.uk/downloads/download/196/expenditure_reports",
-                      target = "_blank")
+                      target = "_blank")),
+                    p("Code for this app & data preparation is on my ",
+                      a("github",
+                        href = "https://github.com/shanwilkinson2/expenditure_over_500",
+                        target = "_blank"))
                 ),
                 
                 # table data
                 tabItem(tabName = "table",
-                    downloadButton("bttn_alldata", "Download all data")
+                    downloadButton("bttn_alldata", "Download all data"),
+                    DT::DTOutput("alldata_table")
                 )
             )
         )
@@ -55,6 +60,15 @@ server <- function(input, output) {
                                       file)
                         })
     
+    # create table to view all data
+    output$alldata_table <- DT::renderDT({
+        expenditure500
+    },
+    filter = "top", rownames = FALSE, extensions = "Buttons",
+    options = list(dom = "Bprti", # order of buttons/ filter etc
+                   buttons = c("copy", "csv", "excel")
+                   )
+    )
     
 }
 
