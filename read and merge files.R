@@ -5,6 +5,9 @@ library(purrr)
 library(janitor)
 library(lubridate)
 
+# read in output
+ files_df <- readRDS("./app/expenditure_over_500.RDS")
+
 # read in downloaded files ################################
 
 # get list of files downloaded
@@ -171,10 +174,15 @@ for(i in 1:length(files_list3)){
       amount = stringr::str_remove(amount, "£"),
       amount = stringr::str_remove_all(amount, ","),
       amount = stringr::str_remove(amount, ".$"),
-      amount = as.numeric(amount)
+      amount = as.numeric(amount),
+      
+      supplier = stringr::str_replace(supplier, "^$", NA_character_),
+      service_area = stringr::str_replace(service_area, "^$", NA_character_),
+      subject_description = stringr::str_replace(subject_description, "^$", NA_character_),
       ) %>% 
     # get rid of rows with blank amount - they are empty rows except for the file date
-    filter(!is.na(amount))
+    filter(!is.na(amount),
+           !is.na(supplier))
   
 
      
