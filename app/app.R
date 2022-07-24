@@ -83,7 +83,8 @@ server <- function(input, output) {
     
     # create table to view all data
     output$alldata_table <- DT::renderDT({
-        expenditure500
+        expenditure500 %>%
+            select(-authority)
     },
     filter = "top", rownames = FALSE, extensions = "Buttons",
     options = list(dom = "Bprti", # order of buttons/ filter etc

@@ -7,6 +7,7 @@ library(lubridate)
 
 # read in output
  files_df <- readRDS("./app/expenditure_over_500.RDS")
+ files_list3 <- readRDS("expenditure_over_500.RDS")
 
 # read in downloaded files ################################
 
@@ -170,26 +171,27 @@ for(i in 1:length(files_list3)){
   files_df <- bind_rows(files_list3) %>%
  # turn amount to number by removing , £
     mutate(
+      amount2 = amount,
       amount = stringr::str_remove(amount, "Â"),
       amount = stringr::str_remove(amount, "£"),
       amount = stringr::str_remove_all(amount, ","),
-      amount = stringr::str_remove(amount, ".$"),
+      amount = ifelse(test = (stringr::str_count(amount, "\\.") >1), 
+                      yes = stringr::str_remove(amount, ".$"), 
+                      no = amount),
       amount = as.numeric(amount),
-      
       supplier = stringr::str_replace(supplier, "^$", NA_character_),
       service_area = stringr::str_replace(service_area, "^$", NA_character_),
-      subject_description = stringr::str_replace(subject_description, "^$", NA_character_),
-      ) %>% 
-    # get rid of rows with blank amount - they are empty rows except for the file date
-    filter(!is.na(amount),
-           !is.na(supplier))
-  
+      subject_description = stringr::str_replace(subject_description, "^$", NA_character_)
+      )
 
      
 #####################################
   
 # save cleaned df
-  data.table::fwrite(files_df, "expenditure_over_500.csv")
+  data.table::fwrite(files_df, "expenditure_over_500.csv")""
+  
+# save list version
+  saveRDS(files_list3, "expenditure_over_500.RDS")
     
 # save for app
   saveRDS(files_df, "./app/expenditure_over_500.RDS")
