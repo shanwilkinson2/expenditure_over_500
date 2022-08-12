@@ -175,6 +175,7 @@ for(i in 1:length(files_list3)){
       amount = stringr::str_remove(amount, "Â"),
       amount = stringr::str_remove(amount, "£"),
       amount = stringr::str_remove_all(amount, ","),
+      # one record has an extra . at the end of the amount
       amount = ifelse(test = (stringr::str_count(amount, "\\.") >1), 
                       yes = stringr::str_remove(amount, ".$"), 
                       no = amount),

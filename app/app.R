@@ -2,6 +2,7 @@ library(shiny)
 library(shinydashboard)
 library(dplyr)
 library(plotly)
+library(DT)
 
 # load static data ##############################################
     expenditure500 <- readRDS("expenditure_over_500.RDS")
@@ -84,8 +85,12 @@ server <- function(input, output) {
     # create table to view all data
     output$alldata_table <- DT::renderDT({
         expenditure500 %>%
-            select(-authority)
-    },
+        select(-authority)%>%
+        mutate(file_date = format(file_date, format = "%Y-%m")) %>%
+        datatable(filter = "top") %>%
+            formatCurrency("amount", currency = "£")
+            
+        },
     filter = "top", rownames = FALSE, extensions = "Buttons",
     options = list(dom = "Bprti", # order of buttons/ filter etc
                    buttons = c("copy", "csv", "excel")
